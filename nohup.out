@@ -1,0 +1,2383 @@
+Initializing local storage instance
+(electron) Sending uncompressed crash reports is deprecated and will be removed in a future version of Electron. Set { compress: true } to opt-in to the new behavior. Crash reports will be uploaded gzipped, which most crash reporting servers support.
+[09/15/23, 20:54:40:317] info: 
+╔═══════════════════════════════════════════════════════════════╗
+║      Slack 4.32.127, linux 6.4.6-76060406-generic on x64      ║
+╚═══════════════════════════════════════════════════════════════╝ 
+[09/15/23, 20:54:40:318] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "webapp-service-worker-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 2
+}
+[09/15/23, 20:54:40:318] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "America/Sao_Paulo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.32.127",
+  "PACKAGE_MANIFEST.commit": "dba8d27",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[09/15/23, 20:54:40:394] info: Boots up new service worker version 
+{
+  "scriptUrl": "https://app.slack.com/service-worker.js",
+  "scope": "https://app.slack.com/",
+  "renderProcessId": 4,
+  "versionId": 69
+}
+[09/15/23, 20:54:40:395] info: Sep-15 20:54:40.393 [SERVICE-WORKER] normalizing request URL for cache https://app.slack.com/client/T50S9NPSA 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:40:397] info: Sep-15 20:54:40.395 [SERVICE-WORKER] responding from cache (normalized) /boot/client.html 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:40:596] info: Sep-15 20:54:40.596 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/slack-icons-v2-fe043a5.woff2 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:40:596] info: Sep-15 20:54:40.596 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/lato-regular-d9ce515.woff2 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:40:597] info: Sep-15 20:54:40.597 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/lato-black-b64f5e4.woff2 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:40:604] info: Sep-15 20:54:40.604 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/slack-kit-gantry-v2-styles.ce05549.min.css 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:40:605] info: Sep-15 20:54:40.605 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/client-boot-styles.b8ee068.min.css 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:40:620] info: Sep-15 20:54:40.605 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/helper-gantry-v2-styles.a69a5bb.min.css 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:40:624] info: Sep-15 20:54:40.624 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/lato-bold-4b1dc11.woff2 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:40:625] info: Sep-15 20:54:40.624 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/gantry-v2-vendors.05680d8.min.js 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:40:626] info: Sep-15 20:54:40.624 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/gantry-v2-shared.33514c6.min.js 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:40:627] info: Sep-15 20:54:40.624 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/client-boot.7beeb9b.min.js 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:40:627] info: Sep-15 20:54:40.624 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/gantry-v2-vendors-client.1134952.min.js 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:41:439] info: Sep-15 20:54:41.439 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/gantry-v2-async-client-boot-apis.af2c8d0.min.js 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:41:441] info: Sep-15 20:54:41.440 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/gantry-v2-vendors-async.3afaa4a.min.js 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:41:442] info: Sep-15 20:54:41.442 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/gantry-v2-vendors-async-client.3ebe4eb.min.js 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:41:443] info: Sep-15 20:54:41.443 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/gantry-v2-async-client-boot-data.4514f62.min.js 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:41:444] info: Sep-15 20:54:41.444 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/gantry-v2-async-gantry-v2-default-boot-shared.ccf21de.min.js 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:41:446] info: Sep-15 20:54:41.445 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/gantry-v2-async-client-boot-render.e6da88b.min.js 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:41:446] info: Sep-15 20:54:41.445 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/gantry-v2-async-client-boot-deferred.050dfa6.min.js 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:43:181] info: Sep-15 20:54:43.180 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/lato-italic-5bbcd6c.woff2 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:43:487] info: 
+╔═══════════════════════════════════════════════════════════════╗
+║      Slack 4.32.127, linux 6.4.6-76060406-generic on x64      ║
+╚═══════════════════════════════════════════════════════════════╝ 
+[09/15/23, 20:54:43:487] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "webapp-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 3
+}
+[09/15/23, 20:54:43:487] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "America/Sao_Paulo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.32.127",
+  "PACKAGE_MANIFEST.commit": "dba8d27",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[09/15/23, 20:54:43:488] info: Starting Sentry (Preload) 
+[09/15/23, 20:54:43:488] info: getSentryDSN: Setting sentry URL to slack.com 
+[09/15/23, 20:54:43:488] info: Creating desktop interface object 
+[09/15/23, 20:54:43:488] info: Exposing context bridge 
+[09/15/23, 20:54:43:488] info: Store: WINDOW_CREATED {
+  "type": "main",
+  "id": 1,
+  "frame": {
+    "isHtmlFullScreen": false,
+    "isFullScreen": false,
+    "isMinimized": false,
+    "isMaximized": false,
+    "isVisible": false,
+    "isFocused": false,
+    "bounds": {
+      "x": 288,
+      "y": 66,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[09/15/23, 20:54:43:488] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 1,
+  "interval": 115
+} 
+[09/15/23, 20:54:43:488] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "unloaded"
+} 
+[09/15/23, 20:54:43:488] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "loaded"
+} 
+[09/15/23, 20:54:43:488] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 2,
+  "interval": 247
+} 
+[09/15/23, 20:54:43:488] info: Store: MAIN_WINDOW_SHOWN  
+[09/15/23, 20:54:43:489] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 288,
+      "y": 66,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[09/15/23, 20:54:43:489] info: Store: CLEAR_NOTIFICATIONS  
+[09/15/23, 20:54:43:489] info: [METRICS] Starting timers for metrics collection 
+[09/15/23, 20:54:43:489] error: [DESKTOP] 'desktop.app.getDogfoodReleaseChannelName' is missing or not a function 
+[09/15/23, 20:54:43:489] info: [APP] client 
+[09/15/23, 20:54:43:489] info: [DATE/TIME] 1694822081423 "2023-09-15T23:54:41.423Z" 
+[09/15/23, 20:54:43:489] info: [VERSION] version_hash: 2d0c3d9731d1166d78e440897ce62c1e5d53f969 
+[09/15/23, 20:54:43:489] info: [VERSION] version_ts: 1694818042 
+[09/15/23, 20:54:43:489] info: [VERSION] min_version_data_ts: 1652142630 
+[09/15/23, 20:54:43:489] info: [URL] https://app.slack.com/client/T50S9NPSA 
+[09/15/23, 20:54:43:489] info: [AUTH] authCookieChanged: started listening to the event 
+[09/15/23, 20:54:43:489] info: [AUTH] Credentials are fresh (psc=1693953120, csc=1693953120) 
+[09/15/23, 20:54:43:489] info: [LOCAL-CONFIG] ingestIncomingConfig(): no incoming payload to process; current teams: T50S9NPSA:U04K3ABV7FC 
+[09/15/23, 20:54:43:490] info: [BOOT] Initial team ID: T50S9NPSA 
+[09/15/23, 20:54:43:490] info: [BOOT] (T50S9NPSA) Minimum supported data version is 1652142630; currently on 1694731642 
+[09/15/23, 20:54:43:490] info: [PERSIST] (T50S9NPSA) Getting state from IndexedDB 
+[09/15/23, 20:54:43:490] info: [TRACER] Tracing is not sampled by default for this team. 
+[09/15/23, 20:54:43:490] info: [TRACER] Tracing is not sampled by default for this session. 
+[09/15/23, 20:54:43:490] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822081.466 experiments.getByUser called 
+[09/15/23, 20:54:43:490] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822081.466 experiments.getByUser is ENQUEUED 
+[09/15/23, 20:54:43:490] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822081.468 api.features called 
+[09/15/23, 20:54:43:490] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822081.468 api.features is ENQUEUED 
+[09/15/23, 20:54:43:490] info: [BOOT] Booting into channel: D04K36Z4B4K 
+[09/15/23, 20:54:43:490] info: Store: UPDATE_SETTINGS {
+  "userTheme": "dark"
+} 
+[09/15/23, 20:54:43:490] info: Store: UPDATE_SETTINGS {
+  "systemThemeSyncEnabled": false
+} 
+[09/15/23, 20:54:43:490] info: Store: SELECTION_CHANGED T50S9NPSA 
+[09/15/23, 20:54:43:490] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[09/15/23, 20:54:43:491] info: Breadcrumb: fetch: undefined {
+  "method": "GET",
+  "url": "https://slack.com/api/api.test?error=",
+  "status_code": 200
+} 
+[09/15/23, 20:54:43:491] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": true,
+    "bounds": {
+      "width": 1024,
+      "height": 768,
+      "x": 288,
+      "y": 66
+    }
+  }
+} 
+[09/15/23, 20:54:43:491] info: Network status check {
+  "elapsed_time_ms": 432,
+  "navigator_online": true,
+  "api_test": "online"
+} 
+[09/15/23, 20:54:43:491] info: [PERSIST] (T50S9NPSA) Successfully got state from IndexedDB 
+[09/15/23, 20:54:43:491] info: Store: SET_NETWORK_STATUS online 
+[09/15/23, 20:54:43:491] info: [BOOT] (T50S9NPSA) Booting with persisted store 
+[09/15/23, 20:54:43:491] info: [PERSIST] (T50S9NPSA) Checking for persistence method changes 
+[09/15/23, 20:54:43:491] info: [PERSIST] (T50S9NPSA) Preparing state for hydration 
+[09/15/23, 20:54:43:491] info: [PERSIST] (T50S9NPSA) State prepared for hydration 
+[09/15/23, 20:54:43:491] info: [PERSIST] (T50S9NPSA) Checking for required data 
+[09/15/23, 20:54:43:491] info: [BOOT] (T50S9NPSA) Configuring redux store 
+[09/15/23, 20:54:43:491] info: [DESKTOP-MIDDLEWARE] (T50S9NPSA) Forwarding redux payload to desktop ["theme","notificationPrefs","connectivityPrefs","featureFlags","unreads","locale","version","userId"] 
+[09/15/23, 20:54:43:491] info: [ROUTES] [c1ceabeb] [ROUTE_ENTITY] navigateToRoute called with reason  
+[09/15/23, 20:54:43:492] info: [ROUTES] [c1ceabeb] [ROUTE_ENTITY] Attempting to navigate to new route {"teamId":"T50S9NPSA","entityId":"D04K36Z4B4K","threadId":"C506ECMTL-1694132099.951779"} 
+[09/15/23, 20:54:43:492] info: [ROUTES] [c1ceabeb] [ROUTE_ENTITY] About to run notifyRouteWillNavigateListeners to determine shouldNavigate 
+[09/15/23, 20:54:43:492] info: [ROUTES] [c1ceabeb] [ROUTE_ENTITY] notifyRouteWillNavigateListeners finished, shouldNavigate is true 
+[09/15/23, 20:54:43:492] info: [ROUTES] [c1ceabeb] [ROUTE_ENTITY] willNavigateListener is replacing the current state with /client/T50S9NPSA/D04K36Z4B4K 
+[09/15/23, 20:54:43:492] info: [ROUTES] [c1ceabeb] [ROUTE_ENTITY] Navigated to new route 
+[09/15/23, 20:54:43:492] info: [DESKTOP-SIDE-EFFECT] (T50S9NPSA) Creating desktop delegate 
+[09/15/23, 20:54:43:492] info: Exposing workspace desktop delegate for  {
+  "workspaceId": "T50S9NPSA"
+} 
+[09/15/23, 20:54:43:492] info: Setting global desktop delegate 
+[09/15/23, 20:54:43:492] info: [BOOT] (T50S9NPSA) (T50S9NPSA) Mounting client 
+[09/15/23, 20:54:43:492] info: [PERF] (T50S9NPSA) First meaningful paint: 2207ms 
+[09/15/23, 20:54:43:492] info: [DRAFTS] (T50S9NPSA) Ensuring we have channel objects for all channels with drafts 
+[09/15/23, 20:54:43:492] info: [BOOT] (T50S9NPSA) Beaconed client boot mount success 
+[09/15/23, 20:54:43:493] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.849 sharedInvites.canGetLink called with reason: sidebar-mount 
+[09/15/23, 20:54:43:493] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.849 sharedInvites.canGetLink is ENQUEUED 
+[09/15/23, 20:54:43:493] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.856 channels.prefs.get called with reason: chatty-to-channel 
+[09/15/23, 20:54:43:493] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.856 channels.prefs.get is ENQUEUED 
+[09/15/23, 20:54:43:493] info: [PERF] (T50S9NPSA) Logged time to visible (TTV): 2503.2000000029802 
+[09/15/23, 20:54:43:493] info: [WORKSPACE] (T50S9NPSA) Attempting to transition focus to primary view D04K36Z4B4K 
+[09/15/23, 20:54:43:493] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.946 users.interactions.list called with reason: HUDDLES_TRIAL_PRO_BANNER 
+[09/15/23, 20:54:43:493] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.946 users.interactions.list is ENQUEUED 
+[09/15/23, 20:54:43:493] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.966 search.autocomplete.model called with reason: AutocompleteModelCache 
+[09/15/23, 20:54:43:493] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.966 search.autocomplete.model is ENQUEUED 
+[09/15/23, 20:54:43:493] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.967 search.autocomplete.offlineFeatures called with reason: search-offline-features 
+[09/15/23, 20:54:43:493] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.967 search.autocomplete.offlineFeatures is ENQUEUED 
+[09/15/23, 20:54:43:493] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.974 users.interactions.list called with reason: useClipsNUXUserInteractions 
+[09/15/23, 20:54:43:494] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.974 users.interactions.list is ENQUEUED 
+[09/15/23, 20:54:43:494] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.975 users.interactions.list called with reason: useClipsNUXUserInteractions 
+[09/15/23, 20:54:43:494] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.975 users.interactions.list is ENQUEUED 
+[09/15/23, 20:54:43:494] info: [MESSAGE-LIST] (T50S9NPSA) requestAround channelId: D04K36Z4B4K isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[09/15/23, 20:54:43:494] info: [HISTORY-FETCH] (T50S9NPSA) Fetching history for message pane: D04K36Z4B4K oldest: 1694809760.765899 latest: 1694809760.765899 
+[09/15/23, 20:54:43:494] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.208 conversations.history called with reason: message-pane/requestHistory 
+[09/15/23, 20:54:43:494] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.208 conversations.history is ENQUEUED 
+[09/15/23, 20:54:43:494] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.209 conversations.history called with reason: message-pane/requestHistory 
+[09/15/23, 20:54:43:494] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.209 conversations.history is ENQUEUED 
+[09/15/23, 20:54:43:494] info: [CHECK-UNREADS] (T50S9NPSA) unreadLineVisible updated: true -> false 
+[09/15/23, 20:54:43:494] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.215 megaphone.notifications.list called with reason: load-megaphone-notification-data 
+[09/15/23, 20:54:43:494] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.215 megaphone.notifications.list is ENQUEUED 
+[09/15/23, 20:54:43:494] info: [MESSAGE-LIST] (T50S9NPSA) componentWillReceiveProps isLoading: true isLoadingOlder: true timestamps: 0 
+[09/15/23, 20:54:43:495] info: [WD] All assets have reported back; s: 14; f: 0 
+[09/15/23, 20:54:43:495] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822083.355 client.boot called with reason: deferred-data 
+[09/15/23, 20:54:43:495] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822083.355 client.boot is ENQUEUED 
+[09/15/23, 20:54:43:495] info: Store: REDUX_UPDATE_FROM_WEBAPP (T50S9NPSA) Changed keys [theme,notificationPrefs,connectivityPrefs,featureFlags,unreads,locale,version,userId] 
+[09/15/23, 20:54:43:495] info: [UFM] (T50S9NPSA) requesting D04K36Z4B4K,C506ECMTL,C023N1RL7DM,C04PPH0KKT9,C05NRCRF822,C05QFFCPQ2X,C05QU1CSZLG,C052EDRDKDK,C059E2ZM7NY,GC7D37HJA,C05413KGTFE,C04AGP6DHEJ,C01ULPBTZ8F,G013M31Q18R,C0244S7LD3P,D04JWN2PC2J,D05NSAXFK3M,D05REMAFFSM,D05NH46HQAV,C05Q2RBDEGJ,C05LWJNL3JP,D05NZ978HT4,D04K1QHBS79,C05S60Q9TKK,D05LGFNTS2G,C05NJKWE8A0,D052NU2M4D8,D04KSHMHF1T,D05R7CRHW5R,D04K6UCMBPE,D05RE6VNK6K,C05REED9TM5,D05LH1RQ006,C05M0DQ6ZE1,D052RE154KU,D05QR9NDZEY,D05R3JRE1JQ,D051HSQ6RK8,D04LDUK90KA,D05KKP560BG,D04L2SD5133 (1) 
+[09/15/23, 20:54:43:495] info: [API-Q] (T50S9NPSA) noversion-1694822083.368 Flannel huddles/info called with reason: flannel-call:huddles/info 
+[09/15/23, 20:54:43:495] info: [API-Q] (T50S9NPSA) noversion-1694822083.368 Flannel huddles/info is ENQUEUED 
+[09/15/23, 20:54:43:495] info: [UFM] (T50S9NPSA) requesting D04K36Z4B4K (1) 
+[09/15/23, 20:54:43:495] info: [UFM] (T50S9NPSA) received D04K36Z4B4K (1) 
+[09/15/23, 20:54:43:495] info: [UFM] (T50S9NPSA) requesting D04K36Z4B4K (1) 
+[09/15/23, 20:54:43:495] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.373 bookmarks.list called with reason: bookmarks-store/conditional-fetching 
+[09/15/23, 20:54:43:496] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.373 bookmarks.list is ENQUEUED 
+[09/15/23, 20:54:43:496] info: [FLANNEL] (T50S9NPSA) received a user_subscribe_request call while we are not connected; deferring 
+[09/15/23, 20:54:43:496] info: [API-Q] (T50S9NPSA) noversion-1694822083.380 Flannel users/info called with reason: flannel-call:users/info 
+[09/15/23, 20:54:43:496] info: [API-Q] (T50S9NPSA) noversion-1694822083.380 Flannel users/info is ENQUEUED 
+[09/15/23, 20:54:43:496] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.381 team.info called with reason: conditional-fetching 
+[09/15/23, 20:54:43:496] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.381 team.info is ENQUEUED 
+[09/15/23, 20:54:43:496] info: [API-Q] (T50S9NPSA) noversion-1694822083.382 Flannel channels/info called with reason: flannel-call:channels/info 
+[09/15/23, 20:54:43:497] info: [API-Q] (T50S9NPSA) noversion-1694822083.382 Flannel channels/info is ENQUEUED 
+[09/15/23, 20:54:43:497] info: [DND_V2] (T50S9NPSA) fetchAndUpsertDndForUsers - Preparing to fetch DND times for the following members: U020HMGKCN6,U04K3ABV7FC,U03V4CT3WJ3,U058GQBEUL8,U05MPCLPGJ3,U057429G0AE,U03AZV1ST8A,U01KHHCJ83T,U05382YQ9ME,U50T5CR3R,U01N74ERHNZ,UKESW9QCD,U05R1865335,U05LB9GFRNH,U029023N0TF,U05PJ27LTPB,U04S2CLTZPG,U051M4165GC 
+[09/15/23, 20:54:43:497] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.383 dnd.info called with reason: fetchAndUpsertDndForUsers-getDndTimesFor:self 
+[09/15/23, 20:54:43:497] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.383 dnd.info is ENQUEUED 
+[09/15/23, 20:54:43:497] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.384 dnd.teamInfo called with reason: fetchAndUpsertDndForUsers-getDndTimesFor:others 
+[09/15/23, 20:54:43:497] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.384 dnd.teamInfo is ENQUEUED 
+[09/15/23, 20:54:43:497] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.385 team.targetingCriteria called with reason: team_targeting_criteria 
+[09/15/23, 20:54:43:498] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.385 team.targetingCriteria is ENQUEUED 
+[09/15/23, 20:54:43:498] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.386 help.issues.ticketStats called with reason: fetchAndUpsertTicketStats 
+[09/15/23, 20:54:43:498] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.386 help.issues.ticketStats is ENQUEUED 
+[09/15/23, 20:54:43:498] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.387 users.channelSections.list called with reason: conditional-fetch-manager 
+[09/15/23, 20:54:43:498] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.387 users.channelSections.list is ENQUEUED 
+[09/15/23, 20:54:43:498] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.388 sharedInvites.canGetLink called with reason: slack-connect-dm-eligibility-cfm 
+[09/15/23, 20:54:43:498] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.388 sharedInvites.canGetLink is ENQUEUED 
+[09/15/23, 20:54:43:498] info: [API-Q] (T50S9NPSA) noversion-1694822083.389 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[09/15/23, 20:54:43:499] info: [API-Q] (T50S9NPSA) noversion-1694822083.389 Flannel permissions/info is ENQUEUED 
+[09/15/23, 20:54:43:499] info: [API-Q] (T50S9NPSA) noversion-1694822083.389 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[09/15/23, 20:54:43:499] info: [API-Q] (T50S9NPSA) noversion-1694822083.389 Flannel permissions/info is ENQUEUED 
+[09/15/23, 20:54:43:499] info: [API-Q] (T50S9NPSA) noversion-1694822083.390 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[09/15/23, 20:54:43:499] info: [API-Q] (T50S9NPSA) noversion-1694822083.390 Flannel permissions/info is ENQUEUED 
+[09/15/23, 20:54:43:499] info: [API-Q] (T50S9NPSA) noversion-1694822083.390 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[09/15/23, 20:54:43:499] info: [API-Q] (T50S9NPSA) noversion-1694822083.390 Flannel permissions/info is ENQUEUED 
+[09/15/23, 20:54:43:499] info: [API-Q] (T50S9NPSA) noversion-1694822083.392 Flannel users/info called with reason: flannel-call:users/info 
+[09/15/23, 20:54:43:500] info: [API-Q] (T50S9NPSA) noversion-1694822083.392 Flannel users/info is ENQUEUED 
+[09/15/23, 20:54:43:500] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.393 conversations.teamConnections called with reason: fetchAndUpsertSharedChannelTeamConnections 
+[09/15/23, 20:54:43:500] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.393 conversations.teamConnections is ENQUEUED 
+[09/15/23, 20:54:43:500] info: Store: UPDATE_SETTINGS {
+  "trafficLightPosition": {
+    "x": 14,
+    "y": 29
+  }
+} 
+[09/15/23, 20:54:43:500] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[09/15/23, 20:54:43:500] info: Store: EXTEND_MENU global: menucategory-file,menucategory-view,menucategory-jump-to 
+[09/15/23, 20:54:43:500] info: Store: EXTEND_MENU T50S9NPSA: menucategory-file,menucategory-view,menucategory-edit,menucategory-history,menucategory-help 
+[09/15/23, 20:54:43:504] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822081.466 experiments.getByUser is ACTIVE 
+[09/15/23, 20:54:43:504] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822081.468 api.features is ACTIVE 
+[09/15/23, 20:54:43:505] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.849 sharedInvites.canGetLink is ACTIVE 
+[09/15/23, 20:54:43:505] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.856 channels.prefs.get is ACTIVE 
+[09/15/23, 20:54:43:505] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.946 users.interactions.list is ACTIVE 
+[09/15/23, 20:54:43:505] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.966 search.autocomplete.model is ACTIVE 
+[09/15/23, 20:54:43:505] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.967 search.autocomplete.offlineFeatures is ACTIVE 
+[09/15/23, 20:54:43:505] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.974 users.interactions.list is ACTIVE 
+[09/15/23, 20:54:43:506] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.975 users.interactions.list is ACTIVE 
+[09/15/23, 20:54:43:506] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.208 conversations.history is ACTIVE 
+[09/15/23, 20:54:43:506] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.209 conversations.history is ACTIVE 
+[09/15/23, 20:54:43:506] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.215 megaphone.notifications.list is ACTIVE 
+[09/15/23, 20:54:43:506] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822083.355 client.boot is ACTIVE 
+[09/15/23, 20:54:43:508] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "type": "app",
+  "history": "[REDACTED]"
+} 
+[09/15/23, 20:54:43:587] info: Sep-15 20:54:43.587 [SERVICE-WORKER] responding with fetch https://a.slack-edge.com/canvas_blob/XbJFlzPafEWzlyWWtYB2Dg-module-loader 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:43:623] info: Sep-15 20:54:43.623 [SERVICE-WORKER] responding with fetch https://a.slack-edge.com/canvas_blob/XbJFlzPafEWzlyWWtYB2Dg-module-loader 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:43:629] info: Sep-15 20:54:43.628 [SERVICE-WORKER] responding with fetch https://a.slack-edge.com/canvas_blob/5Xq8Fbf8DJ_EU6sQwdDMdQ 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:43:662] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.849 sharedInvites.canGetLink is RESOLVED 
+[09/15/23, 20:54:43:663] info: [API-Q] (T50S9NPSA) noversion-1694822083.392 Flannel users/info is ACTIVE 
+[09/15/23, 20:54:43:664] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822081.468 api.features is RESOLVED 
+[09/15/23, 20:54:43:666] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.966 search.autocomplete.model is RESOLVED 
+[09/15/23, 20:54:43:666] info: [API-Q] (T50S9NPSA) noversion-1694822083.390 Flannel permissions/info is ACTIVE 
+[09/15/23, 20:54:43:671] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.974 users.interactions.list is RESOLVED 
+[09/15/23, 20:54:43:672] info: [API-Q] (T50S9NPSA) noversion-1694822083.390 Flannel permissions/info is ACTIVE 
+[09/15/23, 20:54:43:697] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.946 users.interactions.list is RESOLVED 
+[09/15/23, 20:54:43:698] info: [API-Q] (T50S9NPSA) noversion-1694822083.389 Flannel permissions/info is ACTIVE 
+[09/15/23, 20:54:43:698] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.975 users.interactions.list is RESOLVED 
+[09/15/23, 20:54:43:699] info: [API-Q] (T50S9NPSA) noversion-1694822083.389 Flannel permissions/info is ACTIVE 
+[09/15/23, 20:54:43:700] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.967 search.autocomplete.offlineFeatures is RESOLVED 
+[09/15/23, 20:54:43:701] info: [API-Q] (T50S9NPSA) noversion-1694822083.382 Flannel channels/info is ACTIVE 
+[09/15/23, 20:54:43:703] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.215 megaphone.notifications.list is RESOLVED 
+[09/15/23, 20:54:43:703] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.381 team.info is ACTIVE 
+[09/15/23, 20:54:43:704] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.209 conversations.history is RESOLVED 
+[09/15/23, 20:54:43:705] info: [API-Q] (T50S9NPSA) noversion-1694822083.380 Flannel users/info is ACTIVE 
+[09/15/23, 20:54:43:705] info: [API-Q] (T50S9NPSA) ec52cac1-1694822082.856 channels.prefs.get is RESOLVED 
+[09/15/23, 20:54:43:706] info: [API-Q] (T50S9NPSA) noversion-1694822083.368 Flannel huddles/info is ACTIVE 
+[09/15/23, 20:54:43:731] info: [PLATFORM-CHANNEL-ACTI] (T50S9NPSA) setting count for channel D04K36Z4B4K to 0, and marking channel as stale. 
+[09/15/23, 20:54:43:735] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.208 conversations.history is RESOLVED 
+[09/15/23, 20:54:43:735] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.373 bookmarks.list is ACTIVE 
+[09/15/23, 20:54:43:736] info: [API-Q] (T50S9NPSA) noversion-1694822083.392 Flannel users/info is RESOLVED 
+[09/15/23, 20:54:43:736] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.383 dnd.info is ACTIVE 
+[09/15/23, 20:54:43:737] info: [API-Q] (T50S9NPSA) noversion-1694822083.390 Flannel permissions/info is RESOLVED 
+[09/15/23, 20:54:43:738] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.384 dnd.teamInfo is ACTIVE 
+[09/15/23, 20:54:43:738] info: [API-Q] (T50S9NPSA) noversion-1694822083.390 Flannel permissions/info is RESOLVED 
+[09/15/23, 20:54:43:739] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.385 team.targetingCriteria is ACTIVE 
+[09/15/23, 20:54:43:740] info: [API-Q] (T50S9NPSA) noversion-1694822083.389 Flannel permissions/info is RESOLVED 
+[09/15/23, 20:54:43:741] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.386 help.issues.ticketStats is ACTIVE 
+[09/15/23, 20:54:43:742] info: [API-Q] (T50S9NPSA) noversion-1694822083.389 Flannel permissions/info is RESOLVED 
+[09/15/23, 20:54:43:742] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.387 users.channelSections.list is ACTIVE 
+[09/15/23, 20:54:43:744] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822081.466 experiments.getByUser is RESOLVED 
+[09/15/23, 20:54:43:748] info: [BOOT] Feature flag config version: 1694822083; Experiments config version: 1694822083 
+[09/15/23, 20:54:43:748] info: [BOOT] Current earliest config version: 1694822083; All config versions: {"T50S9NPSA":1694822083} 
+[09/15/23, 20:54:43:750] info: [API-Q] (T50S9NPSA) noversion-1694822083.382 Flannel channels/info is RESOLVED 
+[09/15/23, 20:54:43:750] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.388 sharedInvites.canGetLink is ACTIVE 
+[09/15/23, 20:54:43:780] info: [PLATFORM-CHANNEL-ACTI] (T50S9NPSA) Not updating count for channel D04K36Z4B4K, as count was already set to 0 
+[09/15/23, 20:54:43:783] info: [PINS] (T50S9NPSA) Pins count updated for channel D04K36Z4B4K: 0 
+[09/15/23, 20:54:43:785] info: [UNREAD-COUNTS] (T50S9NPSA) Counting unreads in D04K36Z4B4K because (28) timestamps added 
+[09/15/23, 20:54:43:786] info: [UNREAD-COUNTS] (T50S9NPSA) Checking unreads in D04K36Z4B4K after a new message 
+[09/15/23, 20:54:43:793] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.793 conversations.genericInfo called with reason: fallback:fetchAndUpsertChannelsById 
+[09/15/23, 20:54:43:794] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.793 conversations.genericInfo is ENQUEUED 
+[09/15/23, 20:54:43:795] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822083.355 client.boot is RESOLVED 
+[09/15/23, 20:54:43:799] info: [BOOT] (T50S9NPSA) Dispatching API data 
+[09/15/23, 20:54:43:799] info: [BOOT] (T50S9NPSA) Dispatching boot data 
+[09/15/23, 20:54:43:829] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[09/15/23, 20:54:43:830] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.829 search.autocomplete.topEmojis called with reason: loadEmoji-maybeReloadEmoji-setModelData 
+[09/15/23, 20:54:43:830] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.829 search.autocomplete.topEmojis is ENQUEUED 
+[09/15/23, 20:54:43:832] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.831 files.list called with reason: paperclip-recents 
+[09/15/23, 20:54:43:832] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.831 files.list is ENQUEUED 
+[09/15/23, 20:54:43:841] info: [BOOT] (T50S9NPSA) processing mutation timestamps for D04K36Z4B4K 
+[09/15/23, 20:54:43:844] info: [PLATFORM-CHANNEL-ACTI] (T50S9NPSA) Not updating count for channel D04K36Z4B4K, as count was already set to 0 
+[09/15/23, 20:54:43:845] info: [UNREAD-COUNTS] (T50S9NPSA) Counting unreads in D04K36Z4B4K because (28) timestamps added 
+[09/15/23, 20:54:43:849] info: [BOOT] (T50S9NPSA) Boot complete 
+[09/15/23, 20:54:43:852] info: [DESKTOP-SIDE-EFFECT] (T50S9NPSA) Reacting to  {"type":"[1036] Set a value that represents whether we are currently in the boot phase","payload":false,"error":false} 
+[09/15/23, 20:54:43:854] info: [SOCKET-MANAGER] (T50S9NPSA) Changing from never_connected to prov_connect 
+[09/15/23, 20:54:43:854] info: [SOCKET-MANAGER] (T50S9NPSA) will stay in prov_connect state for up to 10000 ms 
+[09/15/23, 20:54:43:855] info: [SOCKET-MANAGER] (T50S9NPSA) Connecting with token ending: 14ff 
+[09/15/23, 20:54:43:855] info: [SOCKET-MANAGER] (T50S9NPSA) Changing from prov_connect to prov_connecting 
+[09/15/23, 20:54:43:855] info: [SOCKET-MANAGER] (T50S9NPSA) will stay in prov_connecting state for up to 35000 ms 
+[09/15/23, 20:54:43:857] info: [ENDPOINT-MANAGER] (T50S9NPSA) No stale versions to clear. 
+[09/15/23, 20:54:43:857] info: [SOCKET-MANAGER-MIDDLE] (T50S9NPSA) Initialized Socket Manager instance 
+[09/15/23, 20:54:43:878] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[09/15/23, 20:54:43:882] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.881 drafts.list called with reason: client-v2-boot-team 
+[09/15/23, 20:54:43:882] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.881 drafts.list is ENQUEUED 
+[09/15/23, 20:54:43:883] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.882 drafts.listActive called with reason: client-v2-boot-team 
+[09/15/23, 20:54:43:883] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.882 drafts.listActive is ENQUEUED 
+[09/15/23, 20:54:43:884] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.883 workflows.triggers.listRecentlyRunForUser called with reason: fetch_and_upsert_recently_run_triggers 
+[09/15/23, 20:54:43:884] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.883 workflows.triggers.listRecentlyRunForUser is ENQUEUED 
+[09/15/23, 20:54:43:886] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.885 megaphone.notifications.list called with reason: boot 
+[09/15/23, 20:54:43:886] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.885 megaphone.notifications.list is ENQUEUED 
+[09/15/23, 20:54:43:887] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.886 megaphone.notifications.list called with reason: boot 
+[09/15/23, 20:54:43:887] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.886 megaphone.notifications.list is ENQUEUED 
+[09/15/23, 20:54:43:888] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.887 users.prefs.get called with reason: fetch-frecency-prefs 
+[09/15/23, 20:54:43:888] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.887 users.prefs.get is ENQUEUED 
+[09/15/23, 20:54:43:890] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.889 calendar.getInstalledCalendars called with reason: calendar-get-installed-calendars 
+[09/15/23, 20:54:43:890] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.889 calendar.getInstalledCalendars is ENQUEUED 
+[09/15/23, 20:54:43:898] info: [BOOT] Setting reducedSignInWorkflowExperiment object in local storage. teamId: T50S9NPSA, enterpriseId: undefined, isOn: true 
+[09/15/23, 20:54:43:906] info: [MIN-VERSION] Starting client min-version poll. 
+[09/15/23, 20:54:43:912] info: [PERSIST] Purging persisted models, except for the following teamIds ["T50S9NPSA"] 
+[09/15/23, 20:54:43:946] info: [MESSAGE-LIST] (T50S9NPSA) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 28 
+[09/15/23, 20:54:44:197] info: [CHECK-UNREADS] (T50S9NPSA) unreadLineVisible updated: false -> true 
+[09/15/23, 20:54:44:202] info: [PERF] (T50S9NPSA) Logged time to usable (TTU): 3847.2000000029802 
+[09/15/23, 20:54:44:229] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.229 promo.campaigns.eligibilityInfo called with reason: huddle_channel_join_msg_text 
+[09/15/23, 20:54:44:229] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.229 promo.campaigns.eligibilityInfo is ENQUEUED 
+[09/15/23, 20:54:44:258] info: [CHECK-UNREADS] (T50S9NPSA) Checking unreads after window became focused 
+[09/15/23, 20:54:44:258] info: [CHECK-UNREADS] (T50S9NPSA) Not marking D04K36Z4B4K because last_read >= latest && channel is read 
+[09/15/23, 20:54:44:259] info: [CHECK-UNREADS] (T50S9NPSA) Checking unreads after workspace became focused 
+[09/15/23, 20:54:44:259] info: [CHECK-UNREADS] (T50S9NPSA) Not marking D04K36Z4B4K because last_read >= latest && channel is read 
+[09/15/23, 20:54:44:265] info: [API-Q] (T50S9NPSA) noversion-1694822083.380 Flannel users/info is RESOLVED 
+[09/15/23, 20:54:44:265] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.887 users.prefs.get is ACTIVE 
+[09/15/23, 20:54:44:266] info: [API-Q] (T50S9NPSA) noversion-1694822083.368 Flannel huddles/info is RESOLVED 
+[09/15/23, 20:54:44:267] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.393 conversations.teamConnections is ACTIVE 
+[09/15/23, 20:54:44:271] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.381 team.info is RESOLVED 
+[09/15/23, 20:54:44:272] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.793 conversations.genericInfo is ACTIVE 
+[09/15/23, 20:54:44:272] info: Store: SELECTION_CHANGED T50S9NPSA 
+[09/15/23, 20:54:44:274] info: [API-Q] (T50S9NPSA) noversion-1694822084.273 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[09/15/23, 20:54:44:274] info: [API-Q] (T50S9NPSA) noversion-1694822084.273 Flannel permissions/info is ENQUEUED 
+[09/15/23, 20:54:44:274] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.373 bookmarks.list is RESOLVED 
+[09/15/23, 20:54:44:275] info: [API-Q] (T50S9NPSA) noversion-1694822084.273 Flannel permissions/info is ACTIVE 
+[09/15/23, 20:54:44:276] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.383 dnd.info is RESOLVED 
+[09/15/23, 20:54:44:277] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.829 search.autocomplete.topEmojis is ACTIVE 
+[09/15/23, 20:54:44:277] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.387 users.channelSections.list is RESOLVED 
+[09/15/23, 20:54:44:278] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.831 files.list is ACTIVE 
+[09/15/23, 20:54:44:279] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.386 help.issues.ticketStats is RESOLVED 
+[09/15/23, 20:54:44:279] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.881 drafts.list is ACTIVE 
+[09/15/23, 20:54:44:280] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.385 team.targetingCriteria is RESOLVED 
+[09/15/23, 20:54:44:281] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.882 drafts.listActive is ACTIVE 
+[09/15/23, 20:54:44:282] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.388 sharedInvites.canGetLink is RESOLVED 
+[09/15/23, 20:54:44:283] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.883 workflows.triggers.listRecentlyRunForUser is ACTIVE 
+[09/15/23, 20:54:44:284] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.384 dnd.teamInfo is RESOLVED 
+[09/15/23, 20:54:44:285] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.885 megaphone.notifications.list is ACTIVE 
+[09/15/23, 20:54:44:286] info: [SERVICE-WORKER] registration success {} 
+[09/15/23, 20:54:44:286] info: [SERVICE-WORKER-STATE] initial activated 
+[09/15/23, 20:54:44:288] info: [OBJECT-STORE] attempting to delete shards [] 
+[09/15/23, 20:54:44:341] info: [UFM] (T50S9NPSA) received D04K36Z4B4K,C506ECMTL,C023N1RL7DM,C04PPH0KKT9,C05NRCRF822,C05QFFCPQ2X,C05QU1CSZLG,C052EDRDKDK,C059E2ZM7NY,GC7D37HJA,C05413KGTFE,C04AGP6DHEJ,C01ULPBTZ8F,G013M31Q18R,C0244S7LD3P,D04JWN2PC2J,D05NSAXFK3M,D05REMAFFSM,D05NH46HQAV,C05Q2RBDEGJ,C05LWJNL3JP,D05NZ978HT4,D04K1QHBS79,C05S60Q9TKK,D05LGFNTS2G,C05NJKWE8A0,D052NU2M4D8,D04KSHMHF1T,D05R7CRHW5R,D04K6UCMBPE,D05RE6VNK6K,C05REED9TM5,D05LH1RQ006,C05M0DQ6ZE1,D052RE154KU,D05QR9NDZEY,D05R3JRE1JQ,D051HSQ6RK8,D04LDUK90KA,D05KKP560BG,D04L2SD5133 (1) 
+[09/15/23, 20:54:44:351] info: [UFM] (T50S9NPSA) received D04K36Z4B4K (1) 
+[09/15/23, 20:54:44:354] info: [DND] (T50S9NPSA) Fetched DND info for the following member: U04K3ABV7FC 
+[09/15/23, 20:54:44:357] info: [DND_V2] (T50S9NPSA) Not setting a timer as all schedules are stale 
+[09/15/23, 20:54:44:362] info: [DND] (T50S9NPSA) Fetched DND info for the following members: U020HMGKCN6,U03V4CT3WJ3,U058GQBEUL8,U05MPCLPGJ3,U057429G0AE,U03AZV1ST8A,U01KHHCJ83T,U05382YQ9ME,U50T5CR3R,U01N74ERHNZ,UKESW9QCD,U05R1865335,U05LB9GFRNH,U029023N0TF,U05PJ27LTPB,U04S2CLTZPG,U051M4165GC 
+[09/15/23, 20:54:44:364] info: [DND_V2] (T50S9NPSA) Will check for changes in DND status again in 5 minutes 
+[09/15/23, 20:54:44:364] info: [UNREAD-COUNTS] (T50S9NPSA) Checking unreads in D04K36Z4B4K after a new message 
+[09/15/23, 20:54:44:365] info: [CHECK-UNREADS] (T50S9NPSA) Not marking D04K36Z4B4K because last_read >= latest && channel is read 
+[09/15/23, 20:54:44:452] info: [SOCKET-MANAGER] (T50S9NPSA) Changing from prov_connecting to prov_connected 
+[09/15/23, 20:54:44:453] info: Sep-15 20:54:44.451 [SERVICE-WORKER] responding with fetch https://a.slack-edge.com/canvas_blob/5Xq8Fbf8DJ_EU6sQwdDMdQ 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:44:453] info: [SOCKET-MANAGER] (T50S9NPSA) will stay in prov_connected state for up to 60000 ms 
+[09/15/23, 20:54:44:458] info: [SOCKET-MANAGER] (T50S9NPSA) Changing from prov_connected to prov_finalize 
+[09/15/23, 20:54:44:459] info: [SOCKET-MANAGER] (T50S9NPSA) will stay in prov_finalize state for up to 10000 ms 
+[09/15/23, 20:54:44:459] info: [SOCKET-MANAGER] (T50S9NPSA) Changing from prov_finalize to prov_finalizing 
+[09/15/23, 20:54:44:459] info: [SOCKET-MANAGER] (T50S9NPSA) will stay in prov_finalizing state for up to 10000 ms 
+[09/15/23, 20:54:44:460] info: [SOCKET-MANAGER] (T50S9NPSA) Changing from prov_finalizing to connected 
+[09/15/23, 20:54:44:460] info: [SOCKET-MANAGER] (T50S9NPSA) will stay in connected state for up to Infinity ms 
+[09/15/23, 20:54:44:460] info: [SOCKET-MANAGER] (T50S9NPSA) Connected to primary region 
+[09/15/23, 20:54:44:465] info: [FLANNEL] (T50S9NPSA) connected and trouble free! Continuing deferred user_subscribe_request call 
+[09/15/23, 20:54:44:468] info: [EVENTLOG] (T50S9NPSA) fr=false, lc=false, lt=1694821955.644000 
+[09/15/23, 20:54:44:468] info: [EVENTLOG] (T50S9NPSA) fetching events since 1694821955.644000 (129 seconds ago) 
+[09/15/23, 20:54:44:469] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.468 ublockworkaround.history called with reason: fetchEventLogHistoryImmediately 
+[09/15/23, 20:54:44:469] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.468 ublockworkaround.history is ENQUEUED 
+[09/15/23, 20:54:44:470] info: [MESSAGE-HISTORY] (T50S9NPSA) Resetting reachedEnd 
+[09/15/23, 20:54:44:471] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.471 users.customStatus.list called with reason: fetchCustomStatusOnReconnect 
+[09/15/23, 20:54:44:472] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.471 users.customStatus.list is ENQUEUED 
+[09/15/23, 20:54:44:472] info: [DND_V2] (T50S9NPSA) Marking all DND times as stale for the following members after connecting to the websocket: U04K3ABV7FC,U020HMGKCN6,U03V4CT3WJ3,U058GQBEUL8,U05MPCLPGJ3,U057429G0AE,U03AZV1ST8A,U01KHHCJ83T,U05382YQ9ME,U50T5CR3R,U01N74ERHNZ,UKESW9QCD,U05R1865335,U05LB9GFRNH,U029023N0TF,U05PJ27LTPB,U04S2CLTZPG,U051M4165GC 
+[09/15/23, 20:54:44:475] info: [UNREAD-COUNTS] (T50S9NPSA) Fetching counts 
+[09/15/23, 20:54:44:475] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.475 client.counts called with reason: client-counts-api/fetchClientCounts 
+[09/15/23, 20:54:44:476] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.475 client.counts is ENQUEUED 
+[09/15/23, 20:54:44:479] info: [PRESENCE_PROMPT] (T50S9NPSA) ignoring prompt due to presence (active) 
+[09/15/23, 20:54:44:481] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.887 users.prefs.get is RESOLVED 
+[09/15/23, 20:54:44:481] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.468 ublockworkaround.history is ACTIVE 
+[09/15/23, 20:54:44:482] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.829 search.autocomplete.topEmojis is RESOLVED 
+[09/15/23, 20:54:44:483] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.886 megaphone.notifications.list is ACTIVE 
+[09/15/23, 20:54:44:484] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.883 workflows.triggers.listRecentlyRunForUser is RESOLVED 
+[09/15/23, 20:54:44:484] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.889 calendar.getInstalledCalendars is ACTIVE 
+[09/15/23, 20:54:44:485] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.393 conversations.teamConnections is RESOLVED 
+[09/15/23, 20:54:44:485] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.229 promo.campaigns.eligibilityInfo is ACTIVE 
+[09/15/23, 20:54:44:486] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.882 drafts.listActive is RESOLVED 
+[09/15/23, 20:54:44:487] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.471 users.customStatus.list is ACTIVE 
+[09/15/23, 20:54:44:510] info: [HISTORY-FETCH] (T50S9NPSA) Fetching history for message pane: D04K36Z4B4K oldest: 1694809760.765899 latest: null 
+[09/15/23, 20:54:44:510] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.510 conversations.history called with reason: message-pane/requestHistory 
+[09/15/23, 20:54:44:510] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.510 conversations.history is ENQUEUED 
+[09/15/23, 20:54:44:525] info: [CHECK-UNREADS] (T50S9NPSA) unreadLineVisible updated: true -> false 
+[09/15/23, 20:54:44:543] info: [MESSAGE-LIST] (T50S9NPSA) componentWillReceiveProps isLoading: true isLoadingOlder: false timestamps: 28 
+[09/15/23, 20:54:44:553] info: [API-Q] (T50S9NPSA) noversion-1694822084.273 Flannel permissions/info is RESOLVED 
+[09/15/23, 20:54:44:554] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.475 client.counts is ACTIVE 
+[09/15/23, 20:54:44:555] info: [API-Q] (T50S9NPSA) ec52cac1-1694822083.793 conversations.genericInfo is RESOLVED 
+[09/15/23, 20:54:44:555] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.510 conversations.history is ACTIVE 
+[09/15/23, 20:54:44:567] info: [API-Q] (T50S9NPSA) noversion-1694822084.567 Flannel emojis/info called with reason: flannel-call:emojis/info 
+[09/15/23, 20:54:44:568] info: [API-Q] (T50S9NPSA) noversion-1694822084.567 Flannel emojis/info is ENQUEUED 
+[09/15/23, 20:54:44:570] info: [DRAFTS] (T50S9NPSA) Fetched 10 active draft ids ✅ - page 1 
+[09/15/23, 20:54:44:571] info: [DRAFTS] (T50S9NPSA) Purged 0 inactive drafts 
+[09/15/23, 20:54:44:571] info: [DND_V2] (T50S9NPSA) fetchAndUpsertDndForUsers - Preparing to fetch DND times for the following members: U04K3ABV7FC,U03V4CT3WJ3,U058GQBEUL8,U05MPCLPGJ3,U057429G0AE,U03AZV1ST8A,U01KHHCJ83T,U05382YQ9ME,U50T5CR3R,U01N74ERHNZ,UKESW9QCD,U05R1865335,U05LB9GFRNH,U029023N0TF,U05PJ27LTPB,U04S2CLTZPG,U051M4165GC,U020HMGKCN6 
+[09/15/23, 20:54:44:571] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.571 dnd.info called with reason: fetchAndUpsertDndForUsers-getDndTimesFor:self 
+[09/15/23, 20:54:44:572] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.571 dnd.info is ENQUEUED 
+[09/15/23, 20:54:44:572] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.572 dnd.teamInfo called with reason: fetchAndUpsertDndForUsers-getDndTimesFor:others 
+[09/15/23, 20:54:44:572] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.572 dnd.teamInfo is ENQUEUED 
+[09/15/23, 20:54:44:573] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.881 drafts.list is RESOLVED 
+[09/15/23, 20:54:44:574] info: [API-Q] (T50S9NPSA) noversion-1694822084.567 Flannel emojis/info is ACTIVE 
+[09/15/23, 20:54:44:574] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.885 megaphone.notifications.list is RESOLVED 
+[09/15/23, 20:54:44:575] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.571 dnd.info is ACTIVE 
+[09/15/23, 20:54:44:576] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.831 files.list is RESOLVED 
+[09/15/23, 20:54:44:577] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.572 dnd.teamInfo is ACTIVE 
+[09/15/23, 20:54:44:610] info: [API-Q] (T50S9NPSA) noversion-1694822084.609 Flannel users/info called with reason: flannel-call:users/info 
+[09/15/23, 20:54:44:610] info: [API-Q] (T50S9NPSA) noversion-1694822084.609 Flannel users/info is ENQUEUED 
+[09/15/23, 20:54:44:610] info: [PERSIST] Purged persisted models [] 
+[09/15/23, 20:54:44:614] info: [BOOT] Client boot completed 
+[09/15/23, 20:54:44:619] info: [WIN-RESTORE] Cleared window-restoration key in localStorage because all teams have booted. 
+[09/15/23, 20:54:44:621] info: [SIGNAL-TO-DESKTOP] (T50S9NPSA) Attempted boot for all workspaces, signaling desktop 
+[09/15/23, 20:54:44:631] info: [DRAFTS] (T50S9NPSA) Fetched 10 active drafts ✅ - page 1 
+[09/15/23, 20:54:44:631] info: [DRAFTS] (T50S9NPSA) Reconciliation handled - server ts <= local model ts (D04JWN2PC2J) 
+[09/15/23, 20:54:44:631] info: [DRAFTS] (T50S9NPSA) Reconciliation handled - server ts <= local model ts (8a02fac6-c54c-49e7-bdcf-14a3d4eebe8c) 
+[09/15/23, 20:54:44:631] info: [DRAFTS] (T50S9NPSA) Reconciliation handled - server ts <= local model ts (C05M0DQ6ZE1) 
+[09/15/23, 20:54:44:631] info: [DRAFTS] (T50S9NPSA) Reconciliation handled - server ts <= local model ts (C05LWJNL3JP) 
+[09/15/23, 20:54:44:632] info: [DRAFTS] (T50S9NPSA) Reconciliation handled - server ts <= local model ts (991b6629-6b6d-4ad0-89a2-4cedc77d33da) 
+[09/15/23, 20:54:44:632] info: [DRAFTS] (T50S9NPSA) Reconciliation handled - server ts <= local model ts (e7b1bf02-f26b-45a0-be51-ba890e40667d) 
+[09/15/23, 20:54:44:632] info: [DRAFTS] (T50S9NPSA) Reconciliation handled - server ts <= local model ts (0485e841-d3f5-40c1-83fc-8fc218386132) 
+[09/15/23, 20:54:44:632] info: [DRAFTS] (T50S9NPSA) Reconciliation handled - server ts <= local model ts (d77c1e92-e772-478f-9880-da62991b8b90) 
+[09/15/23, 20:54:44:632] info: [DRAFTS] (T50S9NPSA) Reconciliation handled - server ts <= local model ts (6a591684-24c1-41a3-b7e0-f827964b8e7a) 
+[09/15/23, 20:54:44:632] info: [DRAFTS] (T50S9NPSA) Reconciliation handled - server ts <= local model ts (bcba1caf-8f89-4cfc-b3f5-f5ac325721d4) 
+[09/15/23, 20:54:44:632] info: [DRAFTS] (T50S9NPSA) Reconciled fetched drafts:
+Drafts added: 0
+Drafts updated: 0
+Drafts removed: 0
+Drafts ignored: 0 
+[09/15/23, 20:54:44:633] info: [DRAFTS] (T50S9NPSA) No files associated with the fetched drafts 
+[09/15/23, 20:54:44:633] info: [DRAFTS] (T50S9NPSA) Successfully fetched all active and inactive drafts ✨ 
+[09/15/23, 20:54:44:722] info: Store: SYNC Synced 1 workspaces with IDs [T50S9NPSA] 
+[09/15/23, 20:54:44:725] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.471 users.customStatus.list is RESOLVED 
+[09/15/23, 20:54:44:727] info: [API-Q] (T50S9NPSA) noversion-1694822084.609 Flannel users/info is ACTIVE 
+[09/15/23, 20:54:44:727] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.889 calendar.getInstalledCalendars is RESOLVED 
+[09/15/23, 20:54:44:728] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.229 promo.campaigns.eligibilityInfo is RESOLVED 
+[09/15/23, 20:54:44:729] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.468 ublockworkaround.history is RESOLVED 
+[09/15/23, 20:54:44:732] info: Sep-15 20:54:44.731 [SERVICE-WORKER] responding with fetch https://a.slack-edge.com/canvas_blob/-exRgj1nJP4PfiiBzQ0K4Q-ancillary 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:44:734] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.733 users.getInviter called with reason: get-inviter-user-id 
+[09/15/23, 20:54:44:734] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.733 users.getInviter is ENQUEUED 
+[09/15/23, 20:54:44:735] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.733 users.getInviter is ACTIVE 
+[09/15/23, 20:54:44:736] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822083.886 megaphone.notifications.list is RESOLVED 
+[09/15/23, 20:54:44:740] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.510 conversations.history is RESOLVED 
+[09/15/23, 20:54:44:742] info: [API-Q] (T50S9NPSA) noversion-1694822084.567 Flannel emojis/info is RESOLVED 
+[09/15/23, 20:54:44:743] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.571 dnd.info is RESOLVED 
+[09/15/23, 20:54:44:743] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "webapp-loaded"
+} 
+[09/15/23, 20:54:44:743] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 3,
+  "interval": 4022
+} 
+[09/15/23, 20:54:44:748] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.748 calendar.user.info called with reason: calendar-get-user-info 
+[09/15/23, 20:54:44:749] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.748 calendar.user.info is ENQUEUED 
+[09/15/23, 20:54:44:749] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.748 calendar.user.info is ACTIVE 
+[09/15/23, 20:54:44:751] info: [EVENTLOG] (T50S9NPSA) nothing to process 
+[09/15/23, 20:54:44:752] info: [EVENTLOG] (T50S9NPSA) fetched finish (cancelled? false) 
+[09/15/23, 20:54:44:752] info: [EVENTLOG] (T50S9NPSA) dispatching signal and clearing timestamp 
+[09/15/23, 20:54:44:753] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.475 client.counts is RESOLVED 
+[09/15/23, 20:54:44:759] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.572 dnd.teamInfo is RESOLVED 
+[09/15/23, 20:54:44:760] info: [PLATFORM-CHANNEL-ACTI] (T50S9NPSA) Not updating count for channel D04K36Z4B4K, as count was already set to 0 
+[09/15/23, 20:54:44:761] info: [PINS] (T50S9NPSA) Pins count updated for channel D04K36Z4B4K: 0 
+[09/15/23, 20:54:44:783] info: [MESSAGE-LIST] (T50S9NPSA) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 28 
+[09/15/23, 20:54:44:800] info: [CHECK-UNREADS] (T50S9NPSA) unreadLineVisible updated: false -> true 
+[09/15/23, 20:54:44:817] info: [API-Q] (T50S9NPSA) noversion-1694822084.609 Flannel users/info is RESOLVED 
+[09/15/23, 20:54:44:817] info: [DND] (T50S9NPSA) Fetched DND info for the following member: U04K3ABV7FC 
+[09/15/23, 20:54:44:819] info: [DND_V2] (T50S9NPSA) Not setting a timer as all schedules are stale 
+[09/15/23, 20:54:44:819] info: [SERVICE-WORKER] Retrieving item from Service Worker with key https://slack.com/fake-url-for-service-worker-item-storage/is_sonic_on_gantry_v2_enabled. 
+[09/15/23, 20:54:44:820] info: [SERVICE-WORKER] No matching response found for is_sonic_on_gantry_v2_enabled 
+[09/15/23, 20:54:44:820] info: [BOOT] Writing SoGv2 assignment (true) to Service Worker. 
+[09/15/23, 20:54:44:823] info: [COUNTS] (T50S9NPSA) Applying counts to channels. wasLastConnectFast: false isConnected: true 
+[09/15/23, 20:54:44:826] info: [COUNTS] (T50S9NPSA) Recounted D04K36Z4B4K; initial: {"unreadCnt":0,"unreadHighlightCnt":0}; after: {"unreadCnt":0,"unreadHighlightCnt":0,"unreadActivityHighlightCnt":0} 
+[09/15/23, 20:54:44:827] info: [COUNTS] (T50S9NPSA) Threads has_unreads:true mention_count:0 
+[09/15/23, 20:54:44:828] info: [COUNTS] (T50S9NPSA) Completed counts processing 
+[09/15/23, 20:54:44:832] info: [DND] (T50S9NPSA) Fetched DND info for the following members: U03V4CT3WJ3,U058GQBEUL8,U05MPCLPGJ3,U057429G0AE,U03AZV1ST8A,U01KHHCJ83T,U05382YQ9ME,U50T5CR3R,U01N74ERHNZ,UKESW9QCD,U05R1865335,U05LB9GFRNH,U029023N0TF,U05PJ27LTPB,U04S2CLTZPG,U051M4165GC,U020HMGKCN6 
+[09/15/23, 20:54:44:834] info: [DND_V2] (T50S9NPSA) Will check for changes in DND status again in 5 minutes 
+[09/15/23, 20:54:44:910] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.733 users.getInviter is RESOLVED 
+[09/15/23, 20:54:44:910] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822084.748 calendar.user.info is RESOLVED 
+[09/15/23, 20:54:44:911] info: [SERVICE-WORKER] Writing (true) to Service Worker with key https://slack.com/fake-url-for-service-worker-item-storage/is_sonic_on_gantry_v2_enabled. 
+[09/15/23, 20:54:45:014] info: Sep-15 20:54:45.130 [SERVICE-WORKER] responding with fetch https://a.slack-edge.com/canvas_blob/NRDoNOZ6agOho3la7K2m2w 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:042] info: [QUIP] (T50S9NPSA) {"type":"set_current_user_id","timestamp_ms":1694822085039,"user_id":"AeE9EATlKAT"} 
+[09/15/23, 20:54:45:043] warn: TRACER (T50S9NPSA) (canvas:collab-init) was forced closed and marked with the _flush=true tag. 
+[09/15/23, 20:54:45:043] warn: TRACER (T50S9NPSA) (canvas:await-callback) was forced closed and marked with the _flush=true tag. 
+[09/15/23, 20:54:45:060] warn: TRACER No valid spans provided. 
+[09/15/23, 20:54:45:168] info: [CHECK-UNREADS] (T50S9NPSA) Checking unreads after unread line became visible 
+[09/15/23, 20:54:45:169] info: [CHECK-UNREADS] (T50S9NPSA) Not marking D04K36Z4B4K because last_read >= latest && channel is read 
+[09/15/23, 20:54:45:171] info: Sep-15 20:54:45.171 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/5Xq8Fbf8DJ_EU6sQwdDMdQ 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:172] info: Sep-15 20:54:45.171 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/-exRgj1nJP4PfiiBzQ0K4Q-ancillary 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:173] info: Sep-15 20:54:45.172 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/ZRf3SoG6rZudcY0JkdVGEg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:173] info: Sep-15 20:54:45.172 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/GprqBUyz0EAvClgEGYipRw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:174] info: Sep-15 20:54:45.173 [SERVICE-WORKER] asset not found in an existing cache bucket //a.slack-edge.com/canvas_blob/5Xq8Fbf8DJ_EU6sQwdDMdQ 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:174] info: Sep-15 20:54:45.173 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/5Xq8Fbf8DJ_EU6sQwdDMdQ 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:175] info: Sep-15 20:54:45.174 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/-exRgj1nJP4PfiiBzQ0K4Q-ancillary 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:177] info: Sep-15 20:54:45.177 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/ZRf3SoG6rZudcY0JkdVGEg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:178] info: Sep-15 20:54:45.177 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/GprqBUyz0EAvClgEGYipRw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:178] info: Sep-15 20:54:45.177 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/-exRgj1nJP4PfiiBzQ0K4Q-ancillary 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:179] info: Sep-15 20:54:45.177 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/ZRf3SoG6rZudcY0JkdVGEg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:179] info: Sep-15 20:54:45.177 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/GprqBUyz0EAvClgEGYipRw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:180] info: Sep-15 20:54:45.177 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/KlEo0h6Dzo4zakVXApyfcg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:181] info: Sep-15 20:54:45.177 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/2gDP9YM6RxrRT90pwVWiSQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:182] info: Sep-15 20:54:45.178 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/AH6xAQiIUQO-afA9KW0RMA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:183] info: Sep-15 20:54:45.180 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/5Xq8Fbf8DJ_EU6sQwdDMdQ 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:184] info: Sep-15 20:54:45.182 [SERVICE-WORKER] asset not found in an existing cache bucket //a.slack-edge.com/canvas_blob/KlEo0h6Dzo4zakVXApyfcg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:185] info: Sep-15 20:54:45.184 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/KlEo0h6Dzo4zakVXApyfcg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:186] info: Sep-15 20:54:45.184 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/2gDP9YM6RxrRT90pwVWiSQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:187] info: Sep-15 20:54:45.184 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/AH6xAQiIUQO-afA9KW0RMA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:189] info: Sep-15 20:54:45.185 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/2gDP9YM6RxrRT90pwVWiSQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:190] info: Sep-15 20:54:45.185 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/AH6xAQiIUQO-afA9KW0RMA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:191] info: Sep-15 20:54:45.189 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/b8GrIWXlwfInjzdgapSJcg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:194] info: Sep-15 20:54:45.191 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/78m0fOX2jOxdq2nw8CMQJQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:194] info: Sep-15 20:54:45.191 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/b8GrIWXlwfInjzdgapSJcg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:194] info: Sep-15 20:54:45.191 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/78m0fOX2jOxdq2nw8CMQJQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:195] info: Sep-15 20:54:45.192 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/b8GrIWXlwfInjzdgapSJcg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:195] info: Sep-15 20:54:45.192 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/78m0fOX2jOxdq2nw8CMQJQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:195] info: Sep-15 20:54:45.193 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/EDtnS6HI_5S3kUNn18YcEA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:196] info: Sep-15 20:54:45.194 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/GFEygPdA73Dqb_WDchvFTg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:196] info: Sep-15 20:54:45.194 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/EDtnS6HI_5S3kUNn18YcEA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:197] info: Sep-15 20:54:45.196 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/GFEygPdA73Dqb_WDchvFTg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:197] info: Sep-15 20:54:45.196 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/EDtnS6HI_5S3kUNn18YcEA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:197] info: Sep-15 20:54:45.196 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/GFEygPdA73Dqb_WDchvFTg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:198] info: Sep-15 20:54:45.196 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/pLWMLxnuyDYarnm_-WfelQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:198] info: Sep-15 20:54:45.197 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/70Ak79WC9-w0ECc6rYJclg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:200] info: [PERSIST] (T50S9NPSA) Successfully persisted state 
+[09/15/23, 20:54:45:200] info: Sep-15 20:54:45.200 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/pLWMLxnuyDYarnm_-WfelQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:201] info: Sep-15 20:54:45.200 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/70Ak79WC9-w0ECc6rYJclg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:201] info: Sep-15 20:54:45.200 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/KlEo0h6Dzo4zakVXApyfcg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:201] info: Sep-15 20:54:45.200 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/pLWMLxnuyDYarnm_-WfelQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:202] info: Sep-15 20:54:45.200 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/70Ak79WC9-w0ECc6rYJclg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:202] info: Sep-15 20:54:45.200 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/2Sr_ILrGPXzCIBVB8VKJ2A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:202] info: Sep-15 20:54:45.201 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/fofjPprGMdNA-6qdPztkEg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:203] info: Sep-15 20:54:45.201 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/IKRS7YdOhvOIw1fgfl_0Ug-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:203] info: Sep-15 20:54:45.202 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/2Sr_ILrGPXzCIBVB8VKJ2A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:203] info: Sep-15 20:54:45.202 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/fofjPprGMdNA-6qdPztkEg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:204] info: Sep-15 20:54:45.204 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/IKRS7YdOhvOIw1fgfl_0Ug-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:205] info: Sep-15 20:54:45.204 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/2Sr_ILrGPXzCIBVB8VKJ2A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:205] info: Sep-15 20:54:45.204 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/fofjPprGMdNA-6qdPztkEg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:205] info: Sep-15 20:54:45.204 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/IKRS7YdOhvOIw1fgfl_0Ug-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:205] info: Sep-15 20:54:45.204 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/vsaNoQtPOQiZJwEVpwqGZQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:206] info: Sep-15 20:54:45.204 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/m3IfYJCQ0r3INggyoQu9oA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:206] info: Sep-15 20:54:45.204 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/XamH1QgpLZAGtMcPnacXZQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:207] info: Sep-15 20:54:45.207 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/vsaNoQtPOQiZJwEVpwqGZQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:208] info: Sep-15 20:54:45.207 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/m3IfYJCQ0r3INggyoQu9oA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:208] info: Sep-15 20:54:45.207 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/vsaNoQtPOQiZJwEVpwqGZQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:208] info: Sep-15 20:54:45.207 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/m3IfYJCQ0r3INggyoQu9oA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:208] info: Sep-15 20:54:45.207 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/XamH1QgpLZAGtMcPnacXZQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:209] info: Sep-15 20:54:45.208 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/XamH1QgpLZAGtMcPnacXZQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:209] info: Sep-15 20:54:45.208 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/7WudzBrilCkFyPw7MUdoww-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:210] info: Sep-15 20:54:45.209 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/JcGYBh93K5peQ6EIUrbIpQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:210] info: Sep-15 20:54:45.209 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/KPpEDJ65JXvbqiNftthuuA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:210] info: Sep-15 20:54:45.210 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/7WudzBrilCkFyPw7MUdoww-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:211] info: Sep-15 20:54:45.211 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/JcGYBh93K5peQ6EIUrbIpQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:211] info: Sep-15 20:54:45.211 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/7WudzBrilCkFyPw7MUdoww-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:212] info: Sep-15 20:54:45.211 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/JcGYBh93K5peQ6EIUrbIpQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:213] info: Sep-15 20:54:45.212 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/KPpEDJ65JXvbqiNftthuuA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:213] info: Sep-15 20:54:45.213 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/_jbZkOjxXKQLB9j-eLR0gQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:213] info: Sep-15 20:54:45.213 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/_sOIM34sFR78HKhuffr5ug-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:214] info: Sep-15 20:54:45.213 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/KPpEDJ65JXvbqiNftthuuA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:214] info: Sep-15 20:54:45.213 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/IVAh9MbSTEBlEGi605g7Ig-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:215] info: Sep-15 20:54:45.214 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/_jbZkOjxXKQLB9j-eLR0gQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:215] info: Sep-15 20:54:45.214 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/_sOIM34sFR78HKhuffr5ug-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:215] info: Sep-15 20:54:45.215 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/_jbZkOjxXKQLB9j-eLR0gQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:216] info: Sep-15 20:54:45.215 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/_sOIM34sFR78HKhuffr5ug-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:216] info: Sep-15 20:54:45.216 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/IVAh9MbSTEBlEGi605g7Ig-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:216] info: Sep-15 20:54:45.216 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/YOJe_NApKNIR7ocvx7VLHQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:217] info: Sep-15 20:54:45.216 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/SEumtTJk8Ru01gf0-67SWQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:217] info: Sep-15 20:54:45.216 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/IVAh9MbSTEBlEGi605g7Ig-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:217] info: Sep-15 20:54:45.216 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/DNFw7gLv5hXXc7w1HHweyw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:219] info: Sep-15 20:54:45.219 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/YOJe_NApKNIR7ocvx7VLHQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:220] info: Sep-15 20:54:45.219 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/SEumtTJk8Ru01gf0-67SWQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:220] info: Sep-15 20:54:45.219 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/YOJe_NApKNIR7ocvx7VLHQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:220] info: Sep-15 20:54:45.220 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/SEumtTJk8Ru01gf0-67SWQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:221] info: Sep-15 20:54:45.221 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/DNFw7gLv5hXXc7w1HHweyw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:221] info: Sep-15 20:54:45.221 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/rM3YIG3QARNf25UwNfElMw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:222] info: Sep-15 20:54:45.221 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/DNFw7gLv5hXXc7w1HHweyw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:222] info: Sep-15 20:54:45.221 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/ykIc7XWq7W1yMlJNg6tw0A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:222] info: Sep-15 20:54:45.221 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/xC83qtN5A4QzsUoRFkPRqw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:223] info: Sep-15 20:54:45.222 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/rM3YIG3QARNf25UwNfElMw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:223] info: Sep-15 20:54:45.223 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/rM3YIG3QARNf25UwNfElMw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:224] info: Sep-15 20:54:45.223 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/ykIc7XWq7W1yMlJNg6tw0A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:224] info: Sep-15 20:54:45.223 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/xC83qtN5A4QzsUoRFkPRqw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:224] info: Sep-15 20:54:45.224 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/pdotM45kixXtgxQ3obNFAQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:225] info: Sep-15 20:54:45.224 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/ykIc7XWq7W1yMlJNg6tw0A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:225] info: Sep-15 20:54:45.224 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/xC83qtN5A4QzsUoRFkPRqw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:225] info: Sep-15 20:54:45.224 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/IcsICwk37AkFmJ9JHzfY4w-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:225] info: Sep-15 20:54:45.224 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/O73Y4o2bPKXK_8uk9cyYvw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:226] info: Sep-15 20:54:45.226 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/pdotM45kixXtgxQ3obNFAQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:226] info: Sep-15 20:54:45.226 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/5NPcjS8JUQtB3UsRgb9NRA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:227] info: Sep-15 20:54:45.226 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/pdotM45kixXtgxQ3obNFAQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:227] info: Sep-15 20:54:45.226 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/IcsICwk37AkFmJ9JHzfY4w-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:227] info: Sep-15 20:54:45.227 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/dbIQRuNLm2-RIkVH0ZG49w-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:228] info: Sep-15 20:54:45.228 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/O73Y4o2bPKXK_8uk9cyYvw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:229] info: Sep-15 20:54:45.228 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/IcsICwk37AkFmJ9JHzfY4w-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:229] info: Sep-15 20:54:45.228 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/5NPcjS8JUQtB3UsRgb9NRA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:229] info: Sep-15 20:54:45.228 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/O73Y4o2bPKXK_8uk9cyYvw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:230] info: Sep-15 20:54:45.228 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/5NPcjS8JUQtB3UsRgb9NRA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:230] info: Sep-15 20:54:45.229 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/Scf6f6DPE5qogU_Q-vVEVg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:231] info: Sep-15 20:54:45.229 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/dbIQRuNLm2-RIkVH0ZG49w-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:231] info: Sep-15 20:54:45.229 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/3AlDqTsggFz4CpR4YwuwyQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:231] info: Sep-15 20:54:45.230 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/nW0PWWO-aNXYTOPxuImQ-A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:232] info: Sep-15 20:54:45.230 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/dbIQRuNLm2-RIkVH0ZG49w-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:232] info: Sep-15 20:54:45.231 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/Scf6f6DPE5qogU_Q-vVEVg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:232] info: Sep-15 20:54:45.231 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/IoFYXtEnM0PZ3bFgO4Cx1A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:233] info: Sep-15 20:54:45.232 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/Scf6f6DPE5qogU_Q-vVEVg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:233] info: Sep-15 20:54:45.232 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/3AlDqTsggFz4CpR4YwuwyQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:234] info: Sep-15 20:54:45.233 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/nW0PWWO-aNXYTOPxuImQ-A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:234] info: Sep-15 20:54:45.233 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/AwyJndluIjvos_ai31sAuw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:234] info: Sep-15 20:54:45.233 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/3AlDqTsggFz4CpR4YwuwyQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:235] info: Sep-15 20:54:45.234 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/nW0PWWO-aNXYTOPxuImQ-A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:235] info: Sep-15 20:54:45.234 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/IoFYXtEnM0PZ3bFgO4Cx1A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:235] info: Sep-15 20:54:45.234 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/MqTYdyhHZ_0CqpaG94rxuA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:236] info: Sep-15 20:54:45.234 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/RyZANJRXW7WPh1gfnlqNEA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:236] info: Sep-15 20:54:45.234 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/IoFYXtEnM0PZ3bFgO4Cx1A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:237] info: Sep-15 20:54:45.235 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/AwyJndluIjvos_ai31sAuw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:237] info: Sep-15 20:54:45.235 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/ZMzkubLKegs2RwR6NdcYNQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:237] info: Sep-15 20:54:45.235 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/AwyJndluIjvos_ai31sAuw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:238] info: Sep-15 20:54:45.237 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/MqTYdyhHZ_0CqpaG94rxuA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:239] info: Sep-15 20:54:45.237 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/RyZANJRXW7WPh1gfnlqNEA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:239] info: Sep-15 20:54:45.237 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/27paLN9E2IyOJa3SUbcWxg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:239] info: Sep-15 20:54:45.237 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/MqTYdyhHZ_0CqpaG94rxuA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:239] info: Sep-15 20:54:45.238 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/RyZANJRXW7WPh1gfnlqNEA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:239] info: Sep-15 20:54:45.238 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/ZMzkubLKegs2RwR6NdcYNQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:240] info: Sep-15 20:54:45.238 [SERVICE-WORKER] asset not found in an existing cache bucket //a.slack-edge.com/canvas_blob/27paLN9E2IyOJa3SUbcWxg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:240] info: Sep-15 20:54:45.238 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/27paLN9E2IyOJa3SUbcWxg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:240] info: Sep-15 20:54:45.238 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/ZMzkubLKegs2RwR6NdcYNQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:253] info: Sep-15 20:54:45.252 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/27paLN9E2IyOJa3SUbcWxg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:45:255] info: Sep-15 20:54:45.254 [SERVICE-WORKER] All canvas files fetched ,true,true,true,,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true, 
+{
+  "versionId": 69
+}
+[09/15/23, 20:54:48:241] info: Store: EXTEND_MENU T50S9NPSA: menucategory-file,menucategory-view,menucategory-edit,menucategory-history,menucategory-help 
+[09/15/23, 20:54:59:225] info: [FOCUS-EVENT] Client window blurred 
+Initializing local storage instance
+(electron) Sending uncompressed crash reports is deprecated and will be removed in a future version of Electron. Set { compress: true } to opt-in to the new behavior. Crash reports will be uploaded gzipped, which most crash reporting servers support.
+[09/15/23, 20:55:36:087] info: 
+╔═══════════════════════════════════════════════════════════════╗
+║      Slack 4.32.127, linux 6.4.6-76060406-generic on x64      ║
+╚═══════════════════════════════════════════════════════════════╝ 
+[09/15/23, 20:55:36:087] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "webapp-service-worker-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 2
+}
+[09/15/23, 20:55:36:088] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "America/Sao_Paulo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.32.127",
+  "PACKAGE_MANIFEST.commit": "dba8d27",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[09/15/23, 20:55:36:174] info: Boots up new service worker version 
+{
+  "scriptUrl": "https://app.slack.com/service-worker.js",
+  "scope": "https://app.slack.com/",
+  "renderProcessId": 4,
+  "versionId": 69
+}
+[09/15/23, 20:55:36:174] info: Sep-15 20:55:36.173 [SERVICE-WORKER] normalizing request URL for cache https://app.slack.com/client/T50S9NPSA 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:36:178] info: Sep-15 20:55:36.176 [SERVICE-WORKER] Sonic on Gantry-v2 Enabled, serving client-v2.html 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:36:179] info: Sep-15 20:55:36.176 [SERVICE-WORKER] responding from cache (normalized) /boot/client-v2.html 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:36:378] info: Sep-15 20:55:36.378 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/slack-icons-v2-fe043a5.woff2 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:36:378] info: Sep-15 20:55:36.378 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/lato-regular-d9ce515.woff2 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:36:379] info: Sep-15 20:55:36.379 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/lato-black-b64f5e4.woff2 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:36:387] info: Sep-15 20:55:36.386 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/slack-kit-gantry-v2-styles.ce05549.min.css 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:36:402] info: Sep-15 20:55:36.386 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/client-boot-styles.b8ee068.min.css 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:36:406] info: Sep-15 20:55:36.404 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/helper-gantry-v2-styles.a69a5bb.min.css 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:36:407] info: Sep-15 20:55:36.407 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/lato-bold-4b1dc11.woff2 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:36:408] info: Sep-15 20:55:36.407 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/gantry-v2-vendors.05680d8.min.js 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:36:409] info: Sep-15 20:55:36.407 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/gantry-v2-shared.33514c6.min.js 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:36:410] info: Sep-15 20:55:36.407 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/client-boot.7beeb9b.min.js 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:36:411] info: Sep-15 20:55:36.407 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/gantry-v2-vendors-client.1134952.min.js 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:37:210] info: Sep-15 20:55:37.209 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/gantry-v2-async-client-boot-apis.af2c8d0.min.js 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:37:211] info: Sep-15 20:55:37.210 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/gantry-v2-vendors-async.3afaa4a.min.js 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:37:212] info: Sep-15 20:55:37.212 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/gantry-v2-vendors-async-client.3ebe4eb.min.js 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:37:214] info: Sep-15 20:55:37.213 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/gantry-v2-async-client-boot-data.4514f62.min.js 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:37:214] info: Sep-15 20:55:37.213 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/gantry-v2-async-gantry-v2-default-boot-shared.ccf21de.min.js 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:37:216] info: Sep-15 20:55:37.215 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/gantry-v2-async-client-boot-render.e6da88b.min.js 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:37:216] info: Sep-15 20:55:37.215 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/gantry-v2-async-client-boot-deferred.050dfa6.min.js 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:39:096] info: Sep-15 20:55:39.960 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-10/lato-italic-5bbcd6c.woff2 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:39:689] info: 
+╔═══════════════════════════════════════════════════════════════╗
+║      Slack 4.32.127, linux 6.4.6-76060406-generic on x64      ║
+╚═══════════════════════════════════════════════════════════════╝ 
+[09/15/23, 20:55:39:690] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "webapp-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 3
+}
+[09/15/23, 20:55:39:690] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "America/Sao_Paulo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.32.127",
+  "PACKAGE_MANIFEST.commit": "dba8d27",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[09/15/23, 20:55:39:691] info: Starting Sentry (Preload) 
+[09/15/23, 20:55:39:691] info: getSentryDSN: Setting sentry URL to slack.com 
+[09/15/23, 20:55:39:691] info: Creating desktop interface object 
+[09/15/23, 20:55:39:691] info: Exposing context bridge 
+[09/15/23, 20:55:39:691] info: Store: WINDOW_CREATED {
+  "type": "main",
+  "id": 1,
+  "frame": {
+    "isHtmlFullScreen": false,
+    "isFullScreen": false,
+    "isMinimized": false,
+    "isMaximized": false,
+    "isVisible": false,
+    "isFocused": false,
+    "bounds": {
+      "x": 288,
+      "y": 66,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[09/15/23, 20:55:39:691] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 1,
+  "interval": 137
+} 
+[09/15/23, 20:55:39:691] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "unloaded"
+} 
+[09/15/23, 20:55:39:691] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "loaded"
+} 
+[09/15/23, 20:55:39:692] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 2,
+  "interval": 254
+} 
+[09/15/23, 20:55:39:692] info: Store: MAIN_WINDOW_SHOWN  
+[09/15/23, 20:55:39:692] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 288,
+      "y": 66,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[09/15/23, 20:55:39:692] info: Store: CLEAR_NOTIFICATIONS  
+[09/15/23, 20:55:39:692] info: [METRICS] Starting timers for metrics collection 
+[09/15/23, 20:55:39:692] error: [DESKTOP] 'desktop.app.getDogfoodReleaseChannelName' is missing or not a function 
+[09/15/23, 20:55:39:692] info: [APP] client-v2 
+[09/15/23, 20:55:39:692] info: [DATE/TIME] 1694822137193 "2023-09-15T23:55:37.193Z" 
+[09/15/23, 20:55:39:692] info: [VERSION] version_hash: 2d0c3d9731d1166d78e440897ce62c1e5d53f969 
+[09/15/23, 20:55:39:693] info: [VERSION] version_ts: 1694818042 
+[09/15/23, 20:55:39:693] info: [VERSION] min_version_data_ts: 1652142630 
+[09/15/23, 20:55:39:693] info: [URL] https://app.slack.com/client/T50S9NPSA 
+[09/15/23, 20:55:39:693] info: [AUTH] authCookieChanged: started listening to the event 
+[09/15/23, 20:55:39:693] info: [AUTH] Credentials are fresh (psc=1693953120, csc=1693953120) 
+[09/15/23, 20:55:39:693] info: [LOCAL-CONFIG] ingestIncomingConfig(): no incoming payload to process; current teams: T50S9NPSA:U04K3ABV7FC 
+[09/15/23, 20:55:39:693] info: [BOOT] Initial team ID: T50S9NPSA 
+[09/15/23, 20:55:39:693] info: [BOOT] (T50S9NPSA) Minimum supported data version is 1652142630; currently on 1694731642 
+[09/15/23, 20:55:39:693] info: [PERSIST] (T50S9NPSA) Getting state from IndexedDB 
+[09/15/23, 20:55:39:693] info: [TRACER] Tracing is not sampled by default for this team. 
+[09/15/23, 20:55:39:694] info: [TRACER] Tracing is sampled by default for this session. 
+[09/15/23, 20:55:39:694] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822137.234 experiments.getByUser called 
+[09/15/23, 20:55:39:694] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822137.234 experiments.getByUser is ENQUEUED 
+[09/15/23, 20:55:39:694] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822137.236 api.features called 
+[09/15/23, 20:55:39:694] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822137.236 api.features is ENQUEUED 
+[09/15/23, 20:55:39:694] info: [BOOT] Booting into channel: D04K36Z4B4K 
+[09/15/23, 20:55:39:694] info: Store: UPDATE_SETTINGS {
+  "userTheme": "dark"
+} 
+[09/15/23, 20:55:39:694] info: Store: UPDATE_SETTINGS {
+  "systemThemeSyncEnabled": false
+} 
+[09/15/23, 20:55:39:694] info: Store: SELECTION_CHANGED T50S9NPSA 
+[09/15/23, 20:55:39:694] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[09/15/23, 20:55:39:694] info: Breadcrumb: fetch: undefined {
+  "method": "GET",
+  "url": "https://slack.com/api/api.test?error=",
+  "status_code": 200
+} 
+[09/15/23, 20:55:39:694] info: Network status check {
+  "elapsed_time_ms": 284,
+  "navigator_online": true,
+  "api_test": "online"
+} 
+[09/15/23, 20:55:39:695] info: [PERSIST] (T50S9NPSA) Successfully got state from IndexedDB 
+[09/15/23, 20:55:39:695] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": true,
+    "bounds": {
+      "width": 1024,
+      "height": 768,
+      "x": 288,
+      "y": 66
+    }
+  }
+} 
+[09/15/23, 20:55:39:695] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822137.569 client.boot called with reason: deferred-data 
+[09/15/23, 20:55:39:695] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822137.569 client.boot is ENQUEUED 
+[09/15/23, 20:55:39:695] info: Store: SET_NETWORK_STATUS online 
+[09/15/23, 20:55:39:695] info: [BOOT] (T50S9NPSA) Booting with persisted store 
+[09/15/23, 20:55:39:695] info: [PERSIST] (T50S9NPSA) Checking for persistence method changes 
+[09/15/23, 20:55:39:695] info: [PERSIST] (T50S9NPSA) Preparing state for hydration 
+[09/15/23, 20:55:39:695] info: [PERSIST] (T50S9NPSA) State prepared for hydration 
+[09/15/23, 20:55:39:695] info: [PERSIST] (T50S9NPSA) Checking for required data 
+[09/15/23, 20:55:39:695] info: [BOOT] (T50S9NPSA) Configuring redux store 
+[09/15/23, 20:55:39:695] info: [DESKTOP-MIDDLEWARE] (T50S9NPSA) Forwarding redux payload to desktop ["theme","notificationPrefs","connectivityPrefs","featureFlags","unreads","locale","version","userId"] 
+[09/15/23, 20:55:39:695] info: [ROUTES] [af6a8193] [ROUTE_ENTITY] navigateToRoute called with reason  
+[09/15/23, 20:55:39:696] info: [ROUTES] [af6a8193] [ROUTE_ENTITY] Attempting to navigate to new route {"teamId":"T50S9NPSA","entityId":"D04K36Z4B4K","threadId":"C506ECMTL-1694132099.951779"} 
+[09/15/23, 20:55:39:696] info: [ROUTES] [af6a8193] [ROUTE_ENTITY] About to run notifyRouteWillNavigateListeners to determine shouldNavigate 
+[09/15/23, 20:55:39:696] info: [ROUTES] [af6a8193] [ROUTE_ENTITY] notifyRouteWillNavigateListeners finished, shouldNavigate is true 
+[09/15/23, 20:55:39:696] info: [ROUTES] [af6a8193] [ROUTE_ENTITY] willNavigateListener is replacing the current state with /client/T50S9NPSA/D04K36Z4B4K 
+[09/15/23, 20:55:39:696] info: [ROUTES] [af6a8193] [ROUTE_ENTITY] Navigated to new route 
+[09/15/23, 20:55:39:696] info: [DESKTOP-SIDE-EFFECT] (T50S9NPSA) Creating desktop delegate 
+[09/15/23, 20:55:39:696] info: Exposing workspace desktop delegate for  {
+  "workspaceId": "T50S9NPSA"
+} 
+[09/15/23, 20:55:39:696] info: Setting global desktop delegate 
+[09/15/23, 20:55:39:696] info: [BOOT] (T50S9NPSA) (T50S9NPSA) Mounting client 
+[09/15/23, 20:55:39:696] info: [PERF] (T50S9NPSA) First meaningful paint: 2228ms 
+[09/15/23, 20:55:39:696] info: [DRAFTS] (T50S9NPSA) Ensuring we have channel objects for all channels with drafts 
+[09/15/23, 20:55:39:696] info: [BOOT] (T50S9NPSA) Beaconed client boot mount success 
+[09/15/23, 20:55:39:696] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.657 sharedInvites.canGetLink called with reason: sidebar-mount 
+[09/15/23, 20:55:39:697] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.657 sharedInvites.canGetLink is ENQUEUED 
+[09/15/23, 20:55:39:697] info: [PERF] (T50S9NPSA) Logged time to visible (TTV): 2534.10000000149 
+[09/15/23, 20:55:39:697] info: [WORKSPACE] (T50S9NPSA) Attempting to transition focus to primary view D04K36Z4B4K 
+[09/15/23, 20:55:39:697] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.753 users.interactions.list called with reason: HUDDLES_TRIAL_PRO_BANNER 
+[09/15/23, 20:55:39:697] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.753 users.interactions.list is ENQUEUED 
+[09/15/23, 20:55:39:697] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.775 search.autocomplete.model called with reason: AutocompleteModelCache 
+[09/15/23, 20:55:39:697] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.775 search.autocomplete.model is ENQUEUED 
+[09/15/23, 20:55:39:697] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.776 search.autocomplete.offlineFeatures called with reason: search-offline-features 
+[09/15/23, 20:55:39:697] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.776 search.autocomplete.offlineFeatures is ENQUEUED 
+[09/15/23, 20:55:39:697] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.783 users.interactions.list called with reason: useClipsNUXUserInteractions 
+[09/15/23, 20:55:39:697] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.783 users.interactions.list is ENQUEUED 
+[09/15/23, 20:55:39:697] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.783 users.interactions.list called with reason: useClipsNUXUserInteractions 
+[09/15/23, 20:55:39:698] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.783 users.interactions.list is ENQUEUED 
+[09/15/23, 20:55:39:698] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.134 megaphone.notifications.list called with reason: load-megaphone-notification-data 
+[09/15/23, 20:55:39:698] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.134 megaphone.notifications.list is ENQUEUED 
+[09/15/23, 20:55:39:698] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.163 promo.campaigns.eligibilityInfo called with reason: huddle_channel_join_msg_text 
+[09/15/23, 20:55:39:698] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.163 promo.campaigns.eligibilityInfo is ENQUEUED 
+[09/15/23, 20:55:39:698] info: [WD] All assets have reported back; s: 14; f: 0 
+[09/15/23, 20:55:39:698] info: Store: REDUX_UPDATE_FROM_WEBAPP (T50S9NPSA) Changed keys [theme,notificationPrefs,connectivityPrefs,featureFlags,unreads,locale,version,userId] 
+[09/15/23, 20:55:39:698] info: [UFM] (T50S9NPSA) requesting D04K36Z4B4K,C506ECMTL,C023N1RL7DM,C04PPH0KKT9,C05NRCRF822,C05QFFCPQ2X,C05QU1CSZLG,C052EDRDKDK,C059E2ZM7NY,GC7D37HJA,C05413KGTFE,C04AGP6DHEJ,C01ULPBTZ8F,G013M31Q18R,C0244S7LD3P,D04JWN2PC2J,D05NSAXFK3M,D05REMAFFSM,D05NH46HQAV,C05Q2RBDEGJ,C05LWJNL3JP,D05NZ978HT4,D04K1QHBS79,C05S60Q9TKK,D05LGFNTS2G,C05NJKWE8A0,D052NU2M4D8,D04KSHMHF1T,D05R7CRHW5R,D04K6UCMBPE,D05RE6VNK6K,C05REED9TM5,D05LH1RQ006,C05M0DQ6ZE1,D052RE154KU,D05QR9NDZEY,D05R3JRE1JQ,D051HSQ6RK8,D04LDUK90KA,D05KKP560BG,D04L2SD5133 (1) 
+[09/15/23, 20:55:39:698] info: [API-Q] (T50S9NPSA) noversion-1694822139.521 Flannel huddles/info called with reason: flannel-call:huddles/info 
+[09/15/23, 20:55:39:698] info: [API-Q] (T50S9NPSA) noversion-1694822139.521 Flannel huddles/info is ENQUEUED 
+[09/15/23, 20:55:39:698] info: [UFM] (T50S9NPSA) requesting D04K36Z4B4K (1) 
+[09/15/23, 20:55:39:698] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.522 bookmarks.list called with reason: bookmarks-store/conditional-fetching 
+[09/15/23, 20:55:39:698] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.522 bookmarks.list is ENQUEUED 
+[09/15/23, 20:55:39:698] info: [FLANNEL] (T50S9NPSA) received a user_subscribe_request call while we are not connected; deferring 
+[09/15/23, 20:55:39:699] info: [API-Q] (T50S9NPSA) noversion-1694822139.529 Flannel users/info called with reason: flannel-call:users/info 
+[09/15/23, 20:55:39:699] info: [API-Q] (T50S9NPSA) noversion-1694822139.529 Flannel users/info is ENQUEUED 
+[09/15/23, 20:55:39:699] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.530 team.info called with reason: conditional-fetching 
+[09/15/23, 20:55:39:699] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.530 team.info is ENQUEUED 
+[09/15/23, 20:55:39:699] info: [API-Q] (T50S9NPSA) noversion-1694822139.531 Flannel channels/info called with reason: flannel-call:channels/info 
+[09/15/23, 20:55:39:699] info: [API-Q] (T50S9NPSA) noversion-1694822139.531 Flannel channels/info is ENQUEUED 
+[09/15/23, 20:55:39:699] info: [DND_V2] (T50S9NPSA) fetchAndUpsertDndForUsers - Preparing to fetch DND times for the following members: U020HMGKCN6,U04K3ABV7FC,U03V4CT3WJ3,U058GQBEUL8,U05MPCLPGJ3,U057429G0AE,U03AZV1ST8A,U01KHHCJ83T,U05382YQ9ME,U50T5CR3R,U01N74ERHNZ,UKESW9QCD,U05R1865335,U05LB9GFRNH,U029023N0TF,U05PJ27LTPB,U04S2CLTZPG,U051M4165GC 
+[09/15/23, 20:55:39:699] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.533 dnd.info called with reason: fetchAndUpsertDndForUsers-getDndTimesFor:self 
+[09/15/23, 20:55:39:699] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.533 dnd.info is ENQUEUED 
+[09/15/23, 20:55:39:699] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.533 dnd.teamInfo called with reason: fetchAndUpsertDndForUsers-getDndTimesFor:others 
+[09/15/23, 20:55:39:699] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.533 dnd.teamInfo is ENQUEUED 
+[09/15/23, 20:55:39:699] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.534 team.targetingCriteria called with reason: team_targeting_criteria 
+[09/15/23, 20:55:39:699] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.534 team.targetingCriteria is ENQUEUED 
+[09/15/23, 20:55:39:700] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.535 help.issues.ticketStats called with reason: fetchAndUpsertTicketStats 
+[09/15/23, 20:55:39:700] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.535 help.issues.ticketStats is ENQUEUED 
+[09/15/23, 20:55:39:700] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.536 users.channelSections.list called with reason: conditional-fetch-manager 
+[09/15/23, 20:55:39:700] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.536 users.channelSections.list is ENQUEUED 
+[09/15/23, 20:55:39:700] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.537 sharedInvites.canGetLink called with reason: slack-connect-dm-eligibility-cfm 
+[09/15/23, 20:55:39:700] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.537 sharedInvites.canGetLink is ENQUEUED 
+[09/15/23, 20:55:39:700] info: [API-Q] (T50S9NPSA) noversion-1694822139.538 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[09/15/23, 20:55:39:700] info: [API-Q] (T50S9NPSA) noversion-1694822139.538 Flannel permissions/info is ENQUEUED 
+[09/15/23, 20:55:39:700] info: [API-Q] (T50S9NPSA) noversion-1694822139.538 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[09/15/23, 20:55:39:701] info: [API-Q] (T50S9NPSA) noversion-1694822139.538 Flannel permissions/info is ENQUEUED 
+[09/15/23, 20:55:39:701] info: [API-Q] (T50S9NPSA) noversion-1694822139.539 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[09/15/23, 20:55:39:701] info: [API-Q] (T50S9NPSA) noversion-1694822139.539 Flannel permissions/info is ENQUEUED 
+[09/15/23, 20:55:39:701] info: [API-Q] (T50S9NPSA) noversion-1694822139.539 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[09/15/23, 20:55:39:701] info: [API-Q] (T50S9NPSA) noversion-1694822139.539 Flannel permissions/info is ENQUEUED 
+[09/15/23, 20:55:39:701] info: [API-Q] (T50S9NPSA) noversion-1694822139.540 Flannel users/info called with reason: flannel-call:users/info 
+[09/15/23, 20:55:39:701] info: [API-Q] (T50S9NPSA) noversion-1694822139.540 Flannel users/info is ENQUEUED 
+[09/15/23, 20:55:39:701] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.546 conversations.teamConnections called with reason: fetchAndUpsertSharedChannelTeamConnections 
+[09/15/23, 20:55:39:701] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.546 conversations.teamConnections is ENQUEUED 
+[09/15/23, 20:55:39:702] info: [HISTORY-CFM] (T50S9NPSA) Re-fetching D04K36Z4B4K 1694787985.959349 - 1694809760.765899 
+[09/15/23, 20:55:39:702] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.548 conversations.history called with reason: channel-history-store.CFM.fetch 
+[09/15/23, 20:55:39:702] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.548 conversations.history is ENQUEUED 
+[09/15/23, 20:55:39:702] info: Store: UPDATE_SETTINGS {
+  "trafficLightPosition": {
+    "x": 14,
+    "y": 29
+  }
+} 
+[09/15/23, 20:55:39:702] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[09/15/23, 20:55:39:702] info: Store: EXTEND_MENU global: menucategory-file,menucategory-view,menucategory-jump-to 
+[09/15/23, 20:55:39:702] info: Store: EXTEND_MENU T50S9NPSA: menucategory-file,menucategory-view,menucategory-edit,menucategory-history,menucategory-help 
+[09/15/23, 20:55:39:708] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "type": "app",
+  "history": "[REDACTED]"
+} 
+[09/15/23, 20:55:39:710] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822137.234 experiments.getByUser is ACTIVE 
+[09/15/23, 20:55:39:710] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822137.236 api.features is ACTIVE 
+[09/15/23, 20:55:39:711] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822137.569 client.boot is ACTIVE 
+[09/15/23, 20:55:39:711] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.657 sharedInvites.canGetLink is ACTIVE 
+[09/15/23, 20:55:39:711] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.753 users.interactions.list is ACTIVE 
+[09/15/23, 20:55:39:712] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.775 search.autocomplete.model is ACTIVE 
+[09/15/23, 20:55:39:712] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.776 search.autocomplete.offlineFeatures is ACTIVE 
+[09/15/23, 20:55:39:712] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.783 users.interactions.list is ACTIVE 
+[09/15/23, 20:55:39:713] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.783 users.interactions.list is ACTIVE 
+[09/15/23, 20:55:39:713] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.134 megaphone.notifications.list is ACTIVE 
+[09/15/23, 20:55:39:714] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.163 promo.campaigns.eligibilityInfo is ACTIVE 
+[09/15/23, 20:55:39:714] info: [API-Q] (T50S9NPSA) noversion-1694822139.521 Flannel huddles/info is ACTIVE 
+[09/15/23, 20:55:39:715] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.522 bookmarks.list is ACTIVE 
+[09/15/23, 20:55:39:718] info: Sep-15 20:55:39.717 [SERVICE-WORKER] responding with fetch https://a.slack-edge.com/canvas_blob/XbJFlzPafEWzlyWWtYB2Dg-module-loader 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:39:768] info: [API-Q] (T50S9NPSA) noversion-1694822139.521 Flannel huddles/info is RESOLVED 
+[09/15/23, 20:55:39:769] info: [API-Q] (T50S9NPSA) noversion-1694822139.540 Flannel users/info is ACTIVE 
+[09/15/23, 20:55:39:771] info: [UFM] (T50S9NPSA) received D04K36Z4B4K,C506ECMTL,C023N1RL7DM,C04PPH0KKT9,C05NRCRF822,C05QFFCPQ2X,C05QU1CSZLG,C052EDRDKDK,C059E2ZM7NY,GC7D37HJA,C05413KGTFE,C04AGP6DHEJ,C01ULPBTZ8F,G013M31Q18R,C0244S7LD3P,D04JWN2PC2J,D05NSAXFK3M,D05REMAFFSM,D05NH46HQAV,C05Q2RBDEGJ,C05LWJNL3JP,D05NZ978HT4,D04K1QHBS79,C05S60Q9TKK,D05LGFNTS2G,C05NJKWE8A0,D052NU2M4D8,D04KSHMHF1T,D05R7CRHW5R,D04K6UCMBPE,D05RE6VNK6K,C05REED9TM5,D05LH1RQ006,C05M0DQ6ZE1,D052RE154KU,D05QR9NDZEY,D05R3JRE1JQ,D051HSQ6RK8,D04LDUK90KA,D05KKP560BG,D04L2SD5133 (1) 
+[09/15/23, 20:55:39:771] info: Sep-15 20:55:39.771 [SERVICE-WORKER] responding with fetch https://a.slack-edge.com/canvas_blob/XbJFlzPafEWzlyWWtYB2Dg-module-loader 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:39:836] info: [API-Q] (T50S9NPSA) noversion-1694822139.540 Flannel users/info is RESOLVED 
+[09/15/23, 20:55:39:836] info: [API-Q] (T50S9NPSA) noversion-1694822139.539 Flannel permissions/info is ACTIVE 
+[09/15/23, 20:55:39:844] info: Sep-15 20:55:39.843 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/canvas_blob/5Xq8Fbf8DJ_EU6sQwdDMdQ 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:39:852] info: [API-Q] (T50S9NPSA) noversion-1694822139.539 Flannel permissions/info is RESOLVED 
+[09/15/23, 20:55:39:852] info: [API-Q] (T50S9NPSA) noversion-1694822139.539 Flannel permissions/info is ACTIVE 
+[09/15/23, 20:55:39:857] info: Sep-15 20:55:39.857 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/canvas_blob/5Xq8Fbf8DJ_EU6sQwdDMdQ 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:39:892] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822137.236 api.features is RESOLVED 
+[09/15/23, 20:55:39:893] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.657 sharedInvites.canGetLink is RESOLVED 
+[09/15/23, 20:55:39:894] info: [API-Q] (T50S9NPSA) noversion-1694822139.538 Flannel permissions/info is ACTIVE 
+[09/15/23, 20:55:39:894] info: [API-Q] (T50S9NPSA) noversion-1694822139.539 Flannel permissions/info is RESOLVED 
+[09/15/23, 20:55:39:895] info: [API-Q] (T50S9NPSA) noversion-1694822139.538 Flannel permissions/info is ACTIVE 
+[09/15/23, 20:55:39:896] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.753 users.interactions.list is RESOLVED 
+[09/15/23, 20:55:39:896] info: [API-Q] (T50S9NPSA) noversion-1694822139.531 Flannel channels/info is ACTIVE 
+[09/15/23, 20:55:39:897] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.783 users.interactions.list is RESOLVED 
+[09/15/23, 20:55:39:898] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.530 team.info is ACTIVE 
+[09/15/23, 20:55:39:898] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.783 users.interactions.list is RESOLVED 
+[09/15/23, 20:55:39:899] info: [API-Q] (T50S9NPSA) noversion-1694822139.529 Flannel users/info is ACTIVE 
+[09/15/23, 20:55:39:900] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.775 search.autocomplete.model is RESOLVED 
+[09/15/23, 20:55:39:901] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.533 dnd.info is ACTIVE 
+[09/15/23, 20:55:39:901] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.522 bookmarks.list is RESOLVED 
+[09/15/23, 20:55:39:902] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.533 dnd.teamInfo is ACTIVE 
+[09/15/23, 20:55:39:902] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.163 promo.campaigns.eligibilityInfo is RESOLVED 
+[09/15/23, 20:55:39:903] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.534 team.targetingCriteria is ACTIVE 
+[09/15/23, 20:55:39:904] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.134 megaphone.notifications.list is RESOLVED 
+[09/15/23, 20:55:39:904] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.535 help.issues.ticketStats is ACTIVE 
+[09/15/23, 20:55:39:906] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822138.776 search.autocomplete.offlineFeatures is RESOLVED 
+[09/15/23, 20:55:39:907] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.536 users.channelSections.list is ACTIVE 
+[09/15/23, 20:55:39:944] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822137.234 experiments.getByUser is RESOLVED 
+[09/15/23, 20:55:39:948] info: [BOOT] Feature flag config version: 1694822139; Experiments config version: 1694822139 
+[09/15/23, 20:55:39:948] info: [BOOT] Current earliest config version: 1694822139; All config versions: {"T50S9NPSA":1694822139} 
+[09/15/23, 20:55:39:948] info: [UFM] (T50S9NPSA) received D04K36Z4B4K (1) 
+[09/15/23, 20:55:39:954] info: [API-Q] (T50S9NPSA) noversion-1694822139.538 Flannel permissions/info is RESOLVED 
+[09/15/23, 20:55:39:955] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.537 sharedInvites.canGetLink is ACTIVE 
+[09/15/23, 20:55:39:956] info: [API-Q] (T50S9NPSA) noversion-1694822139.529 Flannel users/info is RESOLVED 
+[09/15/23, 20:55:39:956] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.546 conversations.teamConnections is ACTIVE 
+[09/15/23, 20:55:39:957] info: [API-Q] (T50S9NPSA) noversion-1694822139.531 Flannel channels/info is RESOLVED 
+[09/15/23, 20:55:39:958] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.548 conversations.history is ACTIVE 
+[09/15/23, 20:55:39:992] info: [API-Q] (T50S9NPSA) noversion-1694822139.538 Flannel permissions/info is RESOLVED 
+[09/15/23, 20:55:40:023] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.023 conversations.genericInfo called with reason: fallback:fetchAndUpsertChannelsById 
+[09/15/23, 20:55:40:023] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.023 conversations.genericInfo is ENQUEUED 
+[09/15/23, 20:55:40:024] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.023 conversations.genericInfo is ACTIVE 
+[09/15/23, 20:55:40:025] info: [BOOT-QUEUE] T50S9NPSA noversion-1694822137.569 client.boot is RESOLVED 
+[09/15/23, 20:55:40:030] info: [BOOT] (T50S9NPSA) Dispatching API data 
+[09/15/23, 20:55:40:030] info: [BOOT] (T50S9NPSA) Dispatching boot data 
+[09/15/23, 20:55:40:062] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[09/15/23, 20:55:40:063] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.062 search.autocomplete.topEmojis called with reason: loadEmoji-maybeReloadEmoji-setModelData 
+[09/15/23, 20:55:40:063] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.062 search.autocomplete.topEmojis is ENQUEUED 
+[09/15/23, 20:55:40:065] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.064 files.list called with reason: paperclip-recents 
+[09/15/23, 20:55:40:065] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.064 files.list is ENQUEUED 
+[09/15/23, 20:55:40:079] info: [BOOT] (T50S9NPSA) processing mutation timestamps for D04K36Z4B4K 
+[09/15/23, 20:55:40:085] info: [PLATFORM-CHANNEL-ACTI] (T50S9NPSA) Not updating count for channel D04K36Z4B4K, as count was already set to 0 
+[09/15/23, 20:55:40:086] info: [UNREAD-COUNTS] (T50S9NPSA) Counting unreads in D04K36Z4B4K because (28) timestamps added 
+[09/15/23, 20:55:40:088] info: [UNREAD-COUNTS] (T50S9NPSA) Checking unreads in D04K36Z4B4K after a new message 
+[09/15/23, 20:55:40:093] info: [BOOT] (T50S9NPSA) Boot complete 
+[09/15/23, 20:55:40:097] info: [DESKTOP-SIDE-EFFECT] (T50S9NPSA) Reacting to  {"type":"[1036] Set a value that represents whether we are currently in the boot phase","payload":false,"error":false} 
+[09/15/23, 20:55:40:100] info: [SOCKET-MANAGER] (T50S9NPSA) Changing from never_connected to prov_connect 
+[09/15/23, 20:55:40:101] info: [SOCKET-MANAGER] (T50S9NPSA) will stay in prov_connect state for up to 10000 ms 
+[09/15/23, 20:55:40:103] info: [SOCKET-MANAGER] (T50S9NPSA) Connecting with token ending: 14ff 
+[09/15/23, 20:55:40:104] info: [SOCKET-MANAGER] (T50S9NPSA) Changing from prov_connect to prov_connecting 
+[09/15/23, 20:55:40:105] info: [SOCKET-MANAGER] (T50S9NPSA) will stay in prov_connecting state for up to 35000 ms 
+[09/15/23, 20:55:40:106] info: [ENDPOINT-MANAGER] (T50S9NPSA) No stale versions to clear. 
+[09/15/23, 20:55:40:108] info: [SOCKET-MANAGER-MIDDLE] (T50S9NPSA) Initialized Socket Manager instance 
+[09/15/23, 20:55:40:136] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[09/15/23, 20:55:40:140] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.140 drafts.list called with reason: client-v2-boot-team 
+[09/15/23, 20:55:40:141] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.140 drafts.list is ENQUEUED 
+[09/15/23, 20:55:40:141] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.141 drafts.listActive called with reason: client-v2-boot-team 
+[09/15/23, 20:55:40:141] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.141 drafts.listActive is ENQUEUED 
+[09/15/23, 20:55:40:142] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.142 workflows.triggers.listRecentlyRunForUser called with reason: fetch_and_upsert_recently_run_triggers 
+[09/15/23, 20:55:40:143] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.142 workflows.triggers.listRecentlyRunForUser is ENQUEUED 
+[09/15/23, 20:55:40:144] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.143 megaphone.notifications.list called with reason: boot 
+[09/15/23, 20:55:40:144] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.143 megaphone.notifications.list is ENQUEUED 
+[09/15/23, 20:55:40:145] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.144 megaphone.notifications.list called with reason: boot 
+[09/15/23, 20:55:40:145] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.144 megaphone.notifications.list is ENQUEUED 
+[09/15/23, 20:55:40:146] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.145 users.prefs.get called with reason: fetch-frecency-prefs 
+[09/15/23, 20:55:40:146] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.145 users.prefs.get is ENQUEUED 
+[09/15/23, 20:55:40:147] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.147 calendar.getInstalledCalendars called with reason: calendar-get-installed-calendars 
+[09/15/23, 20:55:40:148] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.147 calendar.getInstalledCalendars is ENQUEUED 
+[09/15/23, 20:55:40:155] info: [BOOT] Setting reducedSignInWorkflowExperiment object in local storage. teamId: T50S9NPSA, enterpriseId: undefined, isOn: true 
+[09/15/23, 20:55:40:165] info: [MIN-VERSION] Starting client min-version poll. 
+[09/15/23, 20:55:40:172] info: [PERSIST] Purging persisted models, except for the following teamIds ["T50S9NPSA"] 
+[09/15/23, 20:55:40:208] info: [PERF] (T50S9NPSA) Logged time to usable (TTU): 4077.10000000149 
+[09/15/23, 20:55:40:344] info: [CHECK-UNREADS] (T50S9NPSA) Checking unreads after window became focused 
+[09/15/23, 20:55:40:344] info: [CHECK-UNREADS] (T50S9NPSA) Not marking D04K36Z4B4K because last_read >= latest && channel is read 
+[09/15/23, 20:55:40:344] info: [CHECK-UNREADS] (T50S9NPSA) Checking unreads after workspace became focused 
+[09/15/23, 20:55:40:345] info: [CHECK-UNREADS] (T50S9NPSA) Not marking D04K36Z4B4K because last_read >= latest && channel is read 
+[09/15/23, 20:55:40:352] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.530 team.info is RESOLVED 
+[09/15/23, 20:55:40:353] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.145 users.prefs.get is ACTIVE 
+[09/15/23, 20:55:40:354] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.533 dnd.info is RESOLVED 
+[09/15/23, 20:55:40:355] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.062 search.autocomplete.topEmojis is ACTIVE 
+[09/15/23, 20:55:40:356] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.534 team.targetingCriteria is RESOLVED 
+[09/15/23, 20:55:40:356] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.064 files.list is ACTIVE 
+[09/15/23, 20:55:40:357] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.536 users.channelSections.list is RESOLVED 
+[09/15/23, 20:55:40:358] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.140 drafts.list is ACTIVE 
+[09/15/23, 20:55:40:359] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.535 help.issues.ticketStats is RESOLVED 
+[09/15/23, 20:55:40:359] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.141 drafts.listActive is ACTIVE 
+[09/15/23, 20:55:40:360] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.533 dnd.teamInfo is RESOLVED 
+[09/15/23, 20:55:40:361] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.142 workflows.triggers.listRecentlyRunForUser is ACTIVE 
+[09/15/23, 20:55:40:361] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.537 sharedInvites.canGetLink is RESOLVED 
+[09/15/23, 20:55:40:362] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.143 megaphone.notifications.list is ACTIVE 
+[09/15/23, 20:55:40:363] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.546 conversations.teamConnections is RESOLVED 
+[09/15/23, 20:55:40:364] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.144 megaphone.notifications.list is ACTIVE 
+[09/15/23, 20:55:40:364] info: Store: SELECTION_CHANGED T50S9NPSA 
+[09/15/23, 20:55:40:365] info: [API-Q] (T50S9NPSA) noversion-1694822140.364 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[09/15/23, 20:55:40:365] info: [API-Q] (T50S9NPSA) noversion-1694822140.364 Flannel permissions/info is ENQUEUED 
+[09/15/23, 20:55:40:366] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822139.548 conversations.history is RESOLVED 
+[09/15/23, 20:55:40:366] info: [API-Q] (T50S9NPSA) noversion-1694822140.364 Flannel permissions/info is ACTIVE 
+[09/15/23, 20:55:40:368] info: [SERVICE-WORKER] registration success {} 
+[09/15/23, 20:55:40:368] info: [SERVICE-WORKER-STATE] initial activated 
+[09/15/23, 20:55:40:368] info: [OBJECT-STORE] attempting to delete shards [] 
+[09/15/23, 20:55:40:390] info: Sep-15 20:55:40.390 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/canvas_blob/-exRgj1nJP4PfiiBzQ0K4Q-ancillary 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:40:463] info: [DND] (T50S9NPSA) Fetched DND info for the following member: U04K3ABV7FC 
+[09/15/23, 20:55:40:466] info: [DND_V2] (T50S9NPSA) Not setting a timer as all schedules are stale 
+[09/15/23, 20:55:40:470] info: [DND] (T50S9NPSA) Fetched DND info for the following members: U020HMGKCN6,U03V4CT3WJ3,U058GQBEUL8,U05MPCLPGJ3,U057429G0AE,U03AZV1ST8A,U01KHHCJ83T,U05382YQ9ME,U50T5CR3R,U01N74ERHNZ,UKESW9QCD,U05R1865335,U05LB9GFRNH,U029023N0TF,U05PJ27LTPB,U04S2CLTZPG,U051M4165GC 
+[09/15/23, 20:55:40:472] info: [DND_V2] (T50S9NPSA) Will check for changes in DND status again in 5 minutes 
+[09/15/23, 20:55:40:479] info: [PLATFORM-CHANNEL-ACTI] (T50S9NPSA) Not updating count for channel D04K36Z4B4K, as count was already set to 0 
+[09/15/23, 20:55:40:482] info: [UNREAD-COUNTS] (T50S9NPSA) Counting unreads in D04K36Z4B4K because (28) timestamps added 
+[09/15/23, 20:55:40:484] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.023 conversations.genericInfo is RESOLVED 
+[09/15/23, 20:55:40:484] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.147 calendar.getInstalledCalendars is ACTIVE 
+[09/15/23, 20:55:40:485] info: [API-Q] (T50S9NPSA) noversion-1694822140.364 Flannel permissions/info is RESOLVED 
+[09/15/23, 20:55:40:664] info: [SOCKET-MANAGER] (T50S9NPSA) Changing from prov_connecting to prov_connected 
+[09/15/23, 20:55:40:664] info: [SOCKET-MANAGER] (T50S9NPSA) will stay in prov_connected state for up to 60000 ms 
+[09/15/23, 20:55:40:668] info: [SOCKET-MANAGER] (T50S9NPSA) Changing from prov_connected to prov_finalize 
+[09/15/23, 20:55:40:668] info: [SOCKET-MANAGER] (T50S9NPSA) will stay in prov_finalize state for up to 10000 ms 
+[09/15/23, 20:55:40:668] info: [SOCKET-MANAGER] (T50S9NPSA) Changing from prov_finalize to prov_finalizing 
+[09/15/23, 20:55:40:669] info: [SOCKET-MANAGER] (T50S9NPSA) will stay in prov_finalizing state for up to 10000 ms 
+[09/15/23, 20:55:40:669] info: [SOCKET-MANAGER] (T50S9NPSA) Changing from prov_finalizing to connected 
+[09/15/23, 20:55:40:669] info: [SOCKET-MANAGER] (T50S9NPSA) will stay in connected state for up to Infinity ms 
+[09/15/23, 20:55:40:669] info: [SOCKET-MANAGER] (T50S9NPSA) Connected to primary region 
+[09/15/23, 20:55:40:671] info: [FLANNEL] (T50S9NPSA) connected and trouble free! Continuing deferred user_subscribe_request call 
+[09/15/23, 20:55:40:673] info: [EVENTLOG] (T50S9NPSA) fr=false, lc=false, lt=1694822084.467000 
+[09/15/23, 20:55:40:674] info: [EVENTLOG] (T50S9NPSA) fetching events since 1694822084.467000 (57 seconds ago) 
+[09/15/23, 20:55:40:675] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.674 ublockworkaround.history called with reason: fetchEventLogHistoryImmediately 
+[09/15/23, 20:55:40:675] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.674 ublockworkaround.history is ENQUEUED 
+[09/15/23, 20:55:40:676] info: [MESSAGE-HISTORY] (T50S9NPSA) Resetting reachedEnd 
+[09/15/23, 20:55:40:677] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.677 users.customStatus.list called with reason: fetchCustomStatusOnReconnect 
+[09/15/23, 20:55:40:677] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.677 users.customStatus.list is ENQUEUED 
+[09/15/23, 20:55:40:678] info: [DND_V2] (T50S9NPSA) Marking all DND times as stale for the following members after connecting to the websocket: U04K3ABV7FC,U020HMGKCN6,U03V4CT3WJ3,U058GQBEUL8,U05MPCLPGJ3,U057429G0AE,U03AZV1ST8A,U01KHHCJ83T,U05382YQ9ME,U50T5CR3R,U01N74ERHNZ,UKESW9QCD,U05R1865335,U05LB9GFRNH,U029023N0TF,U05PJ27LTPB,U04S2CLTZPG,U051M4165GC 
+[09/15/23, 20:55:40:680] info: [UNREAD-COUNTS] (T50S9NPSA) Fetching counts 
+[09/15/23, 20:55:40:681] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.680 client.counts called with reason: client-counts-api/fetchClientCounts 
+[09/15/23, 20:55:40:681] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.680 client.counts is ENQUEUED 
+[09/15/23, 20:55:40:686] info: [PRESENCE_PROMPT] (T50S9NPSA) ignoring prompt due to presence (active) 
+[09/15/23, 20:55:40:686] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.674 ublockworkaround.history is ACTIVE 
+[09/15/23, 20:55:40:695] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.142 workflows.triggers.listRecentlyRunForUser is RESOLVED 
+[09/15/23, 20:55:40:695] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.677 users.customStatus.list is ACTIVE 
+[09/15/23, 20:55:40:696] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.145 users.prefs.get is RESOLVED 
+[09/15/23, 20:55:40:697] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.680 client.counts is ACTIVE 
+[09/15/23, 20:55:40:698] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.062 search.autocomplete.topEmojis is RESOLVED 
+[09/15/23, 20:55:40:699] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.141 drafts.listActive is RESOLVED 
+[09/15/23, 20:55:40:700] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.064 files.list is RESOLVED 
+[09/15/23, 20:55:40:700] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.144 megaphone.notifications.list is RESOLVED 
+[09/15/23, 20:55:40:701] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.143 megaphone.notifications.list is RESOLVED 
+[09/15/23, 20:55:40:702] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.140 drafts.list is RESOLVED 
+[09/15/23, 20:55:40:703] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.147 calendar.getInstalledCalendars is RESOLVED 
+[09/15/23, 20:55:40:704] info: [UNREAD-COUNTS] (T50S9NPSA) Fetching history for unread counting: D04K36Z4B4K, waiting 7587 ms 
+[09/15/23, 20:55:40:704] info: [UNREAD-COUNTS] (T50S9NPSA) Checking unreads in D04K36Z4B4K after a new message 
+[09/15/23, 20:55:40:704] info: [CHECK-UNREADS] (T50S9NPSA) Not marking D04K36Z4B4K because last_read >= latest && channel is read 
+[09/15/23, 20:55:40:727] info: [HISTORY-FETCH] (T50S9NPSA) Fetching history for message pane: D04K36Z4B4K oldest: 1694809760.765899 latest: null 
+[09/15/23, 20:55:40:727] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.727 conversations.history called with reason: message-pane/requestHistory 
+[09/15/23, 20:55:40:727] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.727 conversations.history is ENQUEUED 
+[09/15/23, 20:55:40:745] info: [CHECK-UNREADS] (T50S9NPSA) unreadLineVisible updated: true -> false 
+[09/15/23, 20:55:40:763] info: [MESSAGE-LIST] (T50S9NPSA) componentWillReceiveProps isLoading: true isLoadingOlder: false timestamps: 28 
+[09/15/23, 20:55:40:772] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.727 conversations.history is ACTIVE 
+[09/15/23, 20:55:40:787] info: [API-Q] (T50S9NPSA) noversion-1694822140.786 Flannel emojis/info called with reason: flannel-call:emojis/info 
+[09/15/23, 20:55:40:787] info: [API-Q] (T50S9NPSA) noversion-1694822140.786 Flannel emojis/info is ENQUEUED 
+[09/15/23, 20:55:40:787] info: [API-Q] (T50S9NPSA) noversion-1694822140.786 Flannel emojis/info is ACTIVE 
+[09/15/23, 20:55:40:788] info: [DRAFTS] (T50S9NPSA) Fetched 10 active draft ids ✅ - page 1 
+[09/15/23, 20:55:40:788] info: [DRAFTS] (T50S9NPSA) Purged 0 inactive drafts 
+[09/15/23, 20:55:40:806] info: [DRAFTS] (T50S9NPSA) Fetched 10 active drafts ✅ - page 1 
+[09/15/23, 20:55:40:806] info: [DRAFTS] (T50S9NPSA) Reconciliation handled - server ts <= local model ts (D04JWN2PC2J) 
+[09/15/23, 20:55:40:806] info: [DRAFTS] (T50S9NPSA) Reconciliation handled - server ts <= local model ts (8a02fac6-c54c-49e7-bdcf-14a3d4eebe8c) 
+[09/15/23, 20:55:40:807] info: [DRAFTS] (T50S9NPSA) Reconciliation handled - server ts <= local model ts (C05M0DQ6ZE1) 
+[09/15/23, 20:55:40:807] info: [DRAFTS] (T50S9NPSA) Reconciliation handled - server ts <= local model ts (C05LWJNL3JP) 
+[09/15/23, 20:55:40:807] info: [DRAFTS] (T50S9NPSA) Reconciliation handled - server ts <= local model ts (991b6629-6b6d-4ad0-89a2-4cedc77d33da) 
+[09/15/23, 20:55:40:807] info: [DRAFTS] (T50S9NPSA) Reconciliation handled - server ts <= local model ts (e7b1bf02-f26b-45a0-be51-ba890e40667d) 
+[09/15/23, 20:55:40:807] info: [DRAFTS] (T50S9NPSA) Reconciliation handled - server ts <= local model ts (0485e841-d3f5-40c1-83fc-8fc218386132) 
+[09/15/23, 20:55:40:807] info: [DRAFTS] (T50S9NPSA) Reconciliation handled - server ts <= local model ts (d77c1e92-e772-478f-9880-da62991b8b90) 
+[09/15/23, 20:55:40:807] info: [DRAFTS] (T50S9NPSA) Reconciliation handled - server ts <= local model ts (6a591684-24c1-41a3-b7e0-f827964b8e7a) 
+[09/15/23, 20:55:40:808] info: [DRAFTS] (T50S9NPSA) Reconciliation handled - server ts <= local model ts (bcba1caf-8f89-4cfc-b3f5-f5ac325721d4) 
+[09/15/23, 20:55:40:808] info: [DRAFTS] (T50S9NPSA) Reconciled fetched drafts:
+Drafts added: 0
+Drafts updated: 0
+Drafts removed: 0
+Drafts ignored: 0 
+[09/15/23, 20:55:40:808] info: [DRAFTS] (T50S9NPSA) No files associated with the fetched drafts 
+[09/15/23, 20:55:40:808] info: [DRAFTS] (T50S9NPSA) Successfully fetched all active and inactive drafts ✨ 
+[09/15/23, 20:55:40:809] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.808 calendar.user.info called with reason: calendar-get-user-info 
+[09/15/23, 20:55:40:809] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.808 calendar.user.info is ENQUEUED 
+[09/15/23, 20:55:40:809] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.808 calendar.user.info is ACTIVE 
+[09/15/23, 20:55:40:810] info: [DND_V2] (T50S9NPSA) fetchAndUpsertDndForUsers - Preparing to fetch DND times for the following members: U04K3ABV7FC,U03V4CT3WJ3,U058GQBEUL8,U05MPCLPGJ3,U057429G0AE,U03AZV1ST8A,U01KHHCJ83T,U05382YQ9ME,U50T5CR3R,U01N74ERHNZ,UKESW9QCD,U05R1865335,U05LB9GFRNH,U029023N0TF,U05PJ27LTPB,U04S2CLTZPG,U051M4165GC,U020HMGKCN6 
+[09/15/23, 20:55:40:810] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.810 dnd.info called with reason: fetchAndUpsertDndForUsers-getDndTimesFor:self 
+[09/15/23, 20:55:40:811] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.810 dnd.info is ENQUEUED 
+[09/15/23, 20:55:40:811] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.810 dnd.info is ACTIVE 
+[09/15/23, 20:55:40:811] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.811 dnd.teamInfo called with reason: fetchAndUpsertDndForUsers-getDndTimesFor:others 
+[09/15/23, 20:55:40:812] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.811 dnd.teamInfo is ENQUEUED 
+[09/15/23, 20:55:40:812] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.811 dnd.teamInfo is ACTIVE 
+[09/15/23, 20:55:40:852] info: [API-Q] (T50S9NPSA) noversion-1694822140.851 Flannel users/info called with reason: flannel-call:users/info 
+[09/15/23, 20:55:40:852] info: [API-Q] (T50S9NPSA) noversion-1694822140.851 Flannel users/info is ENQUEUED 
+[09/15/23, 20:55:40:853] info: [API-Q] (T50S9NPSA) noversion-1694822140.851 Flannel users/info is ACTIVE 
+[09/15/23, 20:55:40:854] info: [PERSIST] Purged persisted models [] 
+[09/15/23, 20:55:40:859] info: [BOOT] Client boot completed 
+[09/15/23, 20:55:40:868] info: [WIN-RESTORE] Cleared window-restoration key in localStorage because all teams have booted. 
+[09/15/23, 20:55:40:872] info: [SIGNAL-TO-DESKTOP] (T50S9NPSA) Attempted boot for all workspaces, signaling desktop 
+[09/15/23, 20:55:40:884] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.677 users.customStatus.list is RESOLVED 
+[09/15/23, 20:55:40:885] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.674 ublockworkaround.history is RESOLVED 
+[09/15/23, 20:55:40:887] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.680 client.counts is RESOLVED 
+[09/15/23, 20:55:40:888] info: Store: SYNC Synced 1 workspaces with IDs [T50S9NPSA] 
+[09/15/23, 20:55:40:890] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "webapp-loaded"
+} 
+[09/15/23, 20:55:41:006] info: Sep-15 20:55:41.600 [SERVICE-WORKER] responding with fetch https://a.slack-edge.com/canvas_blob/NRDoNOZ6agOho3la7K2m2w 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:035] info: [QUIP] (T50S9NPSA) {"type":"set_current_user_id","timestamp_ms":1694822141031,"user_id":"AeE9EATlKAT"} 
+[09/15/23, 20:55:41:037] warn: TRACER (T50S9NPSA) (canvas:collab-init) was forced closed and marked with the _flush=true tag. 
+[09/15/23, 20:55:41:037] warn: TRACER (T50S9NPSA) (canvas:await-callback) was forced closed and marked with the _flush=true tag. 
+[09/15/23, 20:55:41:055] info: [EVENTLOG] (T50S9NPSA) nothing to process 
+[09/15/23, 20:55:41:055] info: [EVENTLOG] (T50S9NPSA) fetched finish (cancelled? false) 
+[09/15/23, 20:55:41:056] info: [EVENTLOG] (T50S9NPSA) dispatching signal and clearing timestamp 
+[09/15/23, 20:55:41:059] info: [COUNTS] (T50S9NPSA) Applying counts to channels. wasLastConnectFast: false isConnected: true 
+[09/15/23, 20:55:41:063] info: [COUNTS] (T50S9NPSA) Threads has_unreads:true mention_count:0 
+[09/15/23, 20:55:41:064] info: [COUNTS] (T50S9NPSA) Completed counts processing 
+[09/15/23, 20:55:41:066] info: [API-Q] (T50S9NPSA) noversion-1694822140.786 Flannel emojis/info is RESOLVED 
+[09/15/23, 20:55:41:066] info: [API-Q] (T50S9NPSA) noversion-1694822140.851 Flannel users/info is RESOLVED 
+[09/15/23, 20:55:41:066] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 3,
+  "interval": 4491
+} 
+[09/15/23, 20:55:41:067] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.727 conversations.history is RESOLVED 
+[09/15/23, 20:55:41:068] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.808 calendar.user.info is RESOLVED 
+[09/15/23, 20:55:41:068] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.810 dnd.info is RESOLVED 
+[09/15/23, 20:55:41:069] info: [API-Q] (T50S9NPSA) 2d0c3d97-1694822140.811 dnd.teamInfo is RESOLVED 
+[09/15/23, 20:55:41:204] info: [PLATFORM-CHANNEL-ACTI] (T50S9NPSA) Not updating count for channel D04K36Z4B4K, as count was already set to 0 
+[09/15/23, 20:55:41:206] info: [PINS] (T50S9NPSA) Pins count updated for channel D04K36Z4B4K: 0 
+[09/15/23, 20:55:41:208] info: [DND] (T50S9NPSA) Fetched DND info for the following member: U04K3ABV7FC 
+[09/15/23, 20:55:41:211] info: [DND_V2] (T50S9NPSA) Not setting a timer as all schedules are stale 
+[09/15/23, 20:55:41:211] info: [DND] (T50S9NPSA) Fetched DND info for the following members: U03V4CT3WJ3,U058GQBEUL8,U05MPCLPGJ3,U057429G0AE,U03AZV1ST8A,U01KHHCJ83T,U05382YQ9ME,U50T5CR3R,U01N74ERHNZ,UKESW9QCD,U05R1865335,U05LB9GFRNH,U029023N0TF,U05PJ27LTPB,U04S2CLTZPG,U051M4165GC,U020HMGKCN6 
+[09/15/23, 20:55:41:214] info: [DND_V2] (T50S9NPSA) Will check for changes in DND status again in 5 minutes 
+[09/15/23, 20:55:41:237] info: [MESSAGE-LIST] (T50S9NPSA) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 28 
+[09/15/23, 20:55:41:256] info: [CHECK-UNREADS] (T50S9NPSA) unreadLineVisible updated: false -> true 
+[09/15/23, 20:55:41:272] info: [SERVICE-WORKER] Retrieving item from Service Worker with key https://slack.com/fake-url-for-service-worker-item-storage/is_sonic_on_gantry_v2_enabled. 
+[09/15/23, 20:55:41:302] info: Sep-15 20:55:41.302 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/5Xq8Fbf8DJ_EU6sQwdDMdQ 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:303] info: Sep-15 20:55:41.302 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/-exRgj1nJP4PfiiBzQ0K4Q-ancillary 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:305] info: Sep-15 20:55:41.302 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/ZRf3SoG6rZudcY0JkdVGEg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:305] info: Sep-15 20:55:41.303 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/GprqBUyz0EAvClgEGYipRw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:306] info: Sep-15 20:55:41.304 [SERVICE-WORKER] asset not found in an existing cache bucket //a.slack-edge.com/canvas_blob/5Xq8Fbf8DJ_EU6sQwdDMdQ 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:307] info: Sep-15 20:55:41.306 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/5Xq8Fbf8DJ_EU6sQwdDMdQ 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:307] info: Sep-15 20:55:41.306 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/-exRgj1nJP4PfiiBzQ0K4Q-ancillary 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:308] info: Sep-15 20:55:41.306 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/ZRf3SoG6rZudcY0JkdVGEg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:309] info: Sep-15 20:55:41.306 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/GprqBUyz0EAvClgEGYipRw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:309] info: Sep-15 20:55:41.306 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/-exRgj1nJP4PfiiBzQ0K4Q-ancillary 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:310] info: Sep-15 20:55:41.307 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/ZRf3SoG6rZudcY0JkdVGEg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:310] info: Sep-15 20:55:41.307 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/GprqBUyz0EAvClgEGYipRw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:311] info: Sep-15 20:55:41.307 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/KlEo0h6Dzo4zakVXApyfcg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:311] info: Sep-15 20:55:41.308 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/2gDP9YM6RxrRT90pwVWiSQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:312] info: Sep-15 20:55:41.311 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/AH6xAQiIUQO-afA9KW0RMA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:313] info: Sep-15 20:55:41.311 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/5Xq8Fbf8DJ_EU6sQwdDMdQ 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:313] info: Sep-15 20:55:41.311 [SERVICE-WORKER] asset not found in an existing cache bucket //a.slack-edge.com/canvas_blob/KlEo0h6Dzo4zakVXApyfcg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:314] info: Sep-15 20:55:41.312 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/KlEo0h6Dzo4zakVXApyfcg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:314] info: Sep-15 20:55:41.312 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/2gDP9YM6RxrRT90pwVWiSQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:314] info: Sep-15 20:55:41.312 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/2gDP9YM6RxrRT90pwVWiSQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:315] info: Sep-15 20:55:41.312 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/AH6xAQiIUQO-afA9KW0RMA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:315] info: Sep-15 20:55:41.312 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/b8GrIWXlwfInjzdgapSJcg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:316] info: Sep-15 20:55:41.313 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/AH6xAQiIUQO-afA9KW0RMA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:317] info: Sep-15 20:55:41.315 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/78m0fOX2jOxdq2nw8CMQJQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:317] info: Sep-15 20:55:41.316 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/KlEo0h6Dzo4zakVXApyfcg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:318] info: Sep-15 20:55:41.316 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/b8GrIWXlwfInjzdgapSJcg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:319] info: Sep-15 20:55:41.317 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/b8GrIWXlwfInjzdgapSJcg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:320] info: Sep-15 20:55:41.319 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/78m0fOX2jOxdq2nw8CMQJQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:321] info: Sep-15 20:55:41.320 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/EDtnS6HI_5S3kUNn18YcEA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:322] info: Sep-15 20:55:41.320 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/78m0fOX2jOxdq2nw8CMQJQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:322] info: Sep-15 20:55:41.321 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/GFEygPdA73Dqb_WDchvFTg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:323] info: Sep-15 20:55:41.323 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/EDtnS6HI_5S3kUNn18YcEA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:324] info: Sep-15 20:55:41.323 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/EDtnS6HI_5S3kUNn18YcEA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:325] info: Sep-15 20:55:41.323 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/GFEygPdA73Dqb_WDchvFTg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:325] info: Sep-15 20:55:41.324 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/pLWMLxnuyDYarnm_-WfelQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:325] info: Sep-15 20:55:41.324 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/GFEygPdA73Dqb_WDchvFTg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:326] info: Sep-15 20:55:41.325 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/70Ak79WC9-w0ECc6rYJclg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:327] info: Sep-15 20:55:41.326 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/pLWMLxnuyDYarnm_-WfelQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:327] info: Sep-15 20:55:41.326 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/pLWMLxnuyDYarnm_-WfelQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:328] info: Sep-15 20:55:41.327 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/70Ak79WC9-w0ECc6rYJclg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:329] info: Sep-15 20:55:41.327 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/2Sr_ILrGPXzCIBVB8VKJ2A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:329] info: Sep-15 20:55:41.327 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/70Ak79WC9-w0ECc6rYJclg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:329] info: Sep-15 20:55:41.328 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/fofjPprGMdNA-6qdPztkEg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:330] info: Sep-15 20:55:41.330 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/2Sr_ILrGPXzCIBVB8VKJ2A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:331] info: Sep-15 20:55:41.330 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/2Sr_ILrGPXzCIBVB8VKJ2A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:332] info: Sep-15 20:55:41.331 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/fofjPprGMdNA-6qdPztkEg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:332] info: Sep-15 20:55:41.331 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/IKRS7YdOhvOIw1fgfl_0Ug-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:333] info: Sep-15 20:55:41.331 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/fofjPprGMdNA-6qdPztkEg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:334] info: Sep-15 20:55:41.332 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/vsaNoQtPOQiZJwEVpwqGZQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:336] info: [PERSIST] (T50S9NPSA) Successfully persisted state 
+[09/15/23, 20:55:41:336] info: Sep-15 20:55:41.334 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/IKRS7YdOhvOIw1fgfl_0Ug-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:337] info: Sep-15 20:55:41.334 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/IKRS7YdOhvOIw1fgfl_0Ug-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:338] info: Sep-15 20:55:41.336 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/vsaNoQtPOQiZJwEVpwqGZQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:338] info: Sep-15 20:55:41.336 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/m3IfYJCQ0r3INggyoQu9oA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:338] info: Sep-15 20:55:41.336 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/vsaNoQtPOQiZJwEVpwqGZQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:339] info: Sep-15 20:55:41.337 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/XamH1QgpLZAGtMcPnacXZQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:339] info: Sep-15 20:55:41.337 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/7WudzBrilCkFyPw7MUdoww-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:340] info: Sep-15 20:55:41.338 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/m3IfYJCQ0r3INggyoQu9oA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:340] info: Sep-15 20:55:41.338 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/m3IfYJCQ0r3INggyoQu9oA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:340] info: Sep-15 20:55:41.339 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/XamH1QgpLZAGtMcPnacXZQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:341] info: Sep-15 20:55:41.339 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/7WudzBrilCkFyPw7MUdoww-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:341] info: Sep-15 20:55:41.340 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/JcGYBh93K5peQ6EIUrbIpQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:341] info: Sep-15 20:55:41.340 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/XamH1QgpLZAGtMcPnacXZQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:342] info: Sep-15 20:55:41.340 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/7WudzBrilCkFyPw7MUdoww-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:342] info: Sep-15 20:55:41.341 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/KPpEDJ65JXvbqiNftthuuA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:343] info: Sep-15 20:55:41.341 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/_jbZkOjxXKQLB9j-eLR0gQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:343] info: Sep-15 20:55:41.341 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/JcGYBh93K5peQ6EIUrbIpQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:343] info: Sep-15 20:55:41.341 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/JcGYBh93K5peQ6EIUrbIpQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:344] info: Sep-15 20:55:41.343 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/KPpEDJ65JXvbqiNftthuuA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:344] info: Sep-15 20:55:41.343 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/_jbZkOjxXKQLB9j-eLR0gQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:345] info: Sep-15 20:55:41.343 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/_sOIM34sFR78HKhuffr5ug-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:345] info: Sep-15 20:55:41.343 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/KPpEDJ65JXvbqiNftthuuA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:345] info: Sep-15 20:55:41.343 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/_jbZkOjxXKQLB9j-eLR0gQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:345] info: Sep-15 20:55:41.343 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/IVAh9MbSTEBlEGi605g7Ig-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:346] info: Sep-15 20:55:41.344 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/YOJe_NApKNIR7ocvx7VLHQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:346] info: Sep-15 20:55:41.344 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/_sOIM34sFR78HKhuffr5ug-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:347] info: Sep-15 20:55:41.347 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/_sOIM34sFR78HKhuffr5ug-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:348] info: Sep-15 20:55:41.348 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/IVAh9MbSTEBlEGi605g7Ig-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:349] info: Sep-15 20:55:41.348 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/YOJe_NApKNIR7ocvx7VLHQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:349] info: Sep-15 20:55:41.348 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/SEumtTJk8Ru01gf0-67SWQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:349] info: Sep-15 20:55:41.348 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/IVAh9MbSTEBlEGi605g7Ig-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:350] info: Sep-15 20:55:41.349 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/YOJe_NApKNIR7ocvx7VLHQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:350] info: Sep-15 20:55:41.349 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/DNFw7gLv5hXXc7w1HHweyw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:351] info: Sep-15 20:55:41.349 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/rM3YIG3QARNf25UwNfElMw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:351] info: Sep-15 20:55:41.349 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/SEumtTJk8Ru01gf0-67SWQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:352] info: Sep-15 20:55:41.351 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/SEumtTJk8Ru01gf0-67SWQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:353] info: Sep-15 20:55:41.352 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/DNFw7gLv5hXXc7w1HHweyw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:353] info: Sep-15 20:55:41.352 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/rM3YIG3QARNf25UwNfElMw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:353] info: Sep-15 20:55:41.352 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/ykIc7XWq7W1yMlJNg6tw0A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:354] info: Sep-15 20:55:41.352 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/DNFw7gLv5hXXc7w1HHweyw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:354] info: Sep-15 20:55:41.352 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/rM3YIG3QARNf25UwNfElMw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:354] info: Sep-15 20:55:41.352 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/xC83qtN5A4QzsUoRFkPRqw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:355] info: Sep-15 20:55:41.353 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/pdotM45kixXtgxQ3obNFAQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:356] info: Sep-15 20:55:41.353 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/ykIc7XWq7W1yMlJNg6tw0A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:356] info: Sep-15 20:55:41.355 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/IcsICwk37AkFmJ9JHzfY4w-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:357] info: Sep-15 20:55:41.356 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/ykIc7XWq7W1yMlJNg6tw0A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:357] info: Sep-15 20:55:41.356 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/xC83qtN5A4QzsUoRFkPRqw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:357] info: Sep-15 20:55:41.357 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/pdotM45kixXtgxQ3obNFAQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:358] info: Sep-15 20:55:41.357 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/O73Y4o2bPKXK_8uk9cyYvw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:358] info: Sep-15 20:55:41.357 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/xC83qtN5A4QzsUoRFkPRqw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:358] info: Sep-15 20:55:41.357 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/pdotM45kixXtgxQ3obNFAQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:359] info: Sep-15 20:55:41.358 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/IcsICwk37AkFmJ9JHzfY4w-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:359] info: Sep-15 20:55:41.358 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/5NPcjS8JUQtB3UsRgb9NRA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:360] info: Sep-15 20:55:41.358 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/IcsICwk37AkFmJ9JHzfY4w-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:360] info: Sep-15 20:55:41.359 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/dbIQRuNLm2-RIkVH0ZG49w-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:361] info: Sep-15 20:55:41.360 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/O73Y4o2bPKXK_8uk9cyYvw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:361] info: Sep-15 20:55:41.360 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/Scf6f6DPE5qogU_Q-vVEVg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:362] info: Sep-15 20:55:41.360 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/O73Y4o2bPKXK_8uk9cyYvw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:362] info: Sep-15 20:55:41.360 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/5NPcjS8JUQtB3UsRgb9NRA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:363] info: Sep-15 20:55:41.360 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/dbIQRuNLm2-RIkVH0ZG49w-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:363] info: Sep-15 20:55:41.362 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/3AlDqTsggFz4CpR4YwuwyQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:364] info: Sep-15 20:55:41.362 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/5NPcjS8JUQtB3UsRgb9NRA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:364] info: Sep-15 20:55:41.362 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/dbIQRuNLm2-RIkVH0ZG49w-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:364] info: Sep-15 20:55:41.363 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/Scf6f6DPE5qogU_Q-vVEVg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:365] info: Sep-15 20:55:41.363 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/nW0PWWO-aNXYTOPxuImQ-A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:365] info: Sep-15 20:55:41.363 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/Scf6f6DPE5qogU_Q-vVEVg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:366] info: Sep-15 20:55:41.364 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/IoFYXtEnM0PZ3bFgO4Cx1A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:366] info: Sep-15 20:55:41.364 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/3AlDqTsggFz4CpR4YwuwyQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:367] info: Sep-15 20:55:41.365 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/AwyJndluIjvos_ai31sAuw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:367] info: Sep-15 20:55:41.365 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/3AlDqTsggFz4CpR4YwuwyQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:367] info: Sep-15 20:55:41.365 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/nW0PWWO-aNXYTOPxuImQ-A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:368] info: Sep-15 20:55:41.366 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/IoFYXtEnM0PZ3bFgO4Cx1A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:368] info: Sep-15 20:55:41.366 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/MqTYdyhHZ_0CqpaG94rxuA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:369] info: Sep-15 20:55:41.366 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/nW0PWWO-aNXYTOPxuImQ-A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:369] info: Sep-15 20:55:41.367 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/IoFYXtEnM0PZ3bFgO4Cx1A-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:370] info: Sep-15 20:55:41.368 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/AwyJndluIjvos_ai31sAuw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:370] info: Sep-15 20:55:41.368 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/RyZANJRXW7WPh1gfnlqNEA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:370] info: Sep-15 20:55:41.368 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/AwyJndluIjvos_ai31sAuw-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:371] info: Sep-15 20:55:41.370 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/ZMzkubLKegs2RwR6NdcYNQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:372] info: Sep-15 20:55:41.370 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/MqTYdyhHZ_0CqpaG94rxuA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:372] info: Sep-15 20:55:41.370 [SERVICE-WORKER] checking if asset is in an existing cache bucket: gantry-1694731642 //a.slack-edge.com/canvas_blob/27paLN9E2IyOJa3SUbcWxg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:372] info: Sep-15 20:55:41.370 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/MqTYdyhHZ_0CqpaG94rxuA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:372] info: Sep-15 20:55:41.370 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/RyZANJRXW7WPh1gfnlqNEA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:373] info: Sep-15 20:55:41.372 [SERVICE-WORKER] asset found in existing cache bucket, adding to new bucket //a.slack-edge.com/canvas_blob/ZMzkubLKegs2RwR6NdcYNQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:374] info: Sep-15 20:55:41.372 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/RyZANJRXW7WPh1gfnlqNEA-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:374] info: Sep-15 20:55:41.372 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/ZMzkubLKegs2RwR6NdcYNQ-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:374] info: Sep-15 20:55:41.373 [SERVICE-WORKER] asset not found in an existing cache bucket //a.slack-edge.com/canvas_blob/27paLN9E2IyOJa3SUbcWxg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:375] info: Sep-15 20:55:41.373 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/27paLN9E2IyOJa3SUbcWxg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:376] info: Sep-15 20:55:41.375 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/27paLN9E2IyOJa3SUbcWxg-chunk 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:387] info: Sep-15 20:55:41.386 [SERVICE-WORKER] All canvas files fetched ,true,true,true,,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true, 
+{
+  "versionId": 69
+}
+[09/15/23, 20:55:41:622] info: [CHECK-UNREADS] (T50S9NPSA) Checking unreads after unread line became visible 
+[09/15/23, 20:55:41:623] info: [CHECK-UNREADS] (T50S9NPSA) Not marking D04K36Z4B4K because last_read >= latest && channel is read 
+[09/15/23, 20:55:42:287] info: [FOCUS-EVENT] Client window blurred 
+[09/15/23, 20:55:44:171] info: Store: EXTEND_MENU T50S9NPSA: menucategory-file,menucategory-view,menucategory-edit,menucategory-history,menucategory-help 
