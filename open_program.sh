@@ -9,8 +9,8 @@ else
 fi
 
 #Check if Firefox is installed and open it
-if [ -x "$(command -v firefox)" ]; then
-	nohup firefox &
+if [ -x "$(command -v chrome)" ]; then
+	nohup chrome &
 else
 	echo "Firefox is not installed on this system."
 
