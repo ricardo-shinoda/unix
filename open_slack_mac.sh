@@ -1,7 +1,7 @@
 #!/bin/bash
 
-if [ -x "$(command -v slack)" ]; then
-	nohup slack >/dev/null 2>&1 &
+if [ -d "/Applications/Slack.app" ]; then
+	open -a "Slack"&
 else
 	echo "Slack is not installed on this system"
 
