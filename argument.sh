@@ -3,10 +3,11 @@
 #after typing the command write the name (argument) you wanna give it
 
 name=$1
+name2=$2
 
 echo "Hey $name!"
 sleep 2
-echo "You're looking good today $name"
+echo "My name is $name2"
 sleep 3
-echo "I hope you, $name, have a wonderfull day"
+echo "How can I help you today, $name?"
 
