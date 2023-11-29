@@ -7442,3 +7442,1408 @@ Opening in existing browser session.
 Opening in existing browser session.
 Opening in existing browser session.
 Opening in existing browser session.
+[19358:19358:1015/211739.422802:ERROR:chrome_browser_cloud_management_controller.cc(163)] Cloud management controller initialization aborted as CBCM is not enabled.
+[19346:19346:1015/211742.061408:ERROR:object_proxy.cc(577)] Failed to call method: org.freedesktop.ScreenSaver.GetActive: object_path= /org/freedesktop/ScreenSaver: org.freedesktop.DBus.Error.NotSupported: This method is not implemented
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+[19346:19346:1015/211845.898558:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+[19346:19428:1015/215709.968382:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Fontconfig error: Cannot load default config file: No such file: (null)
+[19358:19358:1016/203239.082174:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.bing.com/search?q=bitwarden+extension+vivaldi&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=bitwarden+extension+vival&sc=9-25&sk=&cvid=B9908937F8A04BF9943C799C04870090&ghsh=0&ghacc=0&ghpl=". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[19358:19358:1016/203239.082484:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.bing.com/search?q=bitwarden+extension+vivaldi&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=bitwarden+extension+vival&sc=9-25&sk=&cvid=B9908937F8A04BF9943C799C04870090&ghsh=0&ghacc=0&ghpl=". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[19358:19358:1016/203331.014265:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://vault.bitwarden.com/#/vault?itemId=32da5319-5cf5-4351-b08b-b07600161ef8&cipherId=580f2171-3829-4b7a-b9ea-b09b00ce5a3b". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+Fontconfig error: Cannot load default config file: No such file: (null)
+[19358:19358:1016/203338.348057:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The tab was closed.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[19358:19358:1016/203347.683131:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The tab was closed.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[19358:19358:1016/203355.360295:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The tab was closed.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+Warning: disabling flag --expose_wasm due to conflicting flags
+Warning: disabling flag --expose_wasm due to conflicting flags
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:03.968: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.341: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.342: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.342: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.342: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.342: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.342: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.342: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.342: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.342: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.342: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.342: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.342: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.342: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.342: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.342: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.342: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:11.342: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.805: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:33:39.806: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.555: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.555: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.555: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.555: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.555: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.555: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.555: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.555: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.555: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.555: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.555: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.555: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.555: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.555: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.555: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.555: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.555: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.555: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:01.556: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.394: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.395: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.396: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.397: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(file-roller:36946): Gtk-CRITICAL **: 21:34:52.397: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+[19346:19428:1016/213934.966566:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[19358:19358:1017/211120.630421:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Could not find guest", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+Warning: disabling flag --expose_wasm due to conflicting flags
+[19358:19358:1017/213805.479853:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.youtube.com/watch?v=6jq4uSK6ehY". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[19346:19428:1017/222924.700129:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[19446:19446:1018/203530.264596:ERROR:shared_image_manager.cc(217)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[19446:19446:1018/203530.266127:ERROR:shared_image_manager.cc(217)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[19346:19428:1018/222811.540382:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[19461:19461:1018/222812.106289:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[19346:19428:1019/212151.364748:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[19346:19346:1020/230008.607465:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+[19346:19346:1020/230256.792330:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+[19461:19461:1020/231122.167586:ERROR:shared_image_manager.cc(220)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[19461:19461:1020/231122.171539:ERROR:shared_image_manager.cc(220)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[19346:19428:1020/231159.998673:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[19346:19428:1021/215125.422734:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+[19358:19358:1021/215929.651150:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.bing.com/search?q=rclone+browser&PC=ATVB&FORM=VBRO02". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[19358:19358:1021/220046.403888:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://github.com/kapitainsky/RcloneBrowser/releases". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[19346:19428:1021/230756.141609:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[19462:19477:1022/184121.140168:ERROR:ssl_client_socket_impl.cc(975)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3883:3883:1022/201321.815050:ERROR:chrome_browser_cloud_management_controller.cc(163)] Cloud management controller initialization aborted as CBCM is not enabled.
+[3875:3875:1022/201324.452861:ERROR:object_proxy.cc(577)] Failed to call method: org.freedesktop.ScreenSaver.GetActive: object_path= /org/freedesktop/ScreenSaver: org.freedesktop.DBus.Error.NotSupported: This method is not implemented
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+[3875:3957:1022/213308.198944:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[3875:3957:1023/091714.978773:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+[3875:3957:1023/093646.815602:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[3981:3981:1023/095146.508071:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[3987:3987:1023/095146.512085:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[3875:3957:1023/095208.916666:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[3875:3957:1023/111600.980681:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[61370:61370:1024/200127.649422:ERROR:chrome_browser_cloud_management_controller.cc(163)] Cloud management controller initialization aborted as CBCM is not enabled.
+[61358:61358:1024/200130.034991:ERROR:object_proxy.cc(577)] Failed to call method: org.freedesktop.ScreenSaver.GetActive: object_path= /org/freedesktop/ScreenSaver: org.freedesktop.DBus.Error.NotSupported: This method is not implemented
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+[61370:61370:1024/200205.460427:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.youtube.com/watch?v=u0PRCHbG0uo". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[61358:61358:1024/205434.829662:ERROR:interface_endpoint_client.cc(702)] Message 5 rejected by interface blink.mojom.WidgetHost
+[61459:61466:1024/205540.119553:ERROR:ssl_client_socket_impl.cc(975)] handshake failed; returned -1, SSL error code 1, net_error -100
+[61459:61466:1024/205540.142824:ERROR:ssl_client_socket_impl.cc(975)] handshake failed; returned -1, SSL error code 1, net_error -100
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+[61459:61466:1024/210105.647344:ERROR:socket_manager.cc(141)] Failed to resolve address for stun.fpapi.io., errorcode: -105
+[61459:61466:1024/210105.647393:ERROR:socket_manager.cc(141)] Failed to resolve address for stun.fpapi.io., errorcode: -105
+[61459:61466:1024/210105.709764:ERROR:socket_manager.cc(141)] Failed to resolve address for stun.fpapi.io., errorcode: -105
+[61459:61466:1024/210105.709823:ERROR:socket_manager.cc(141)] Failed to resolve address for stun.fpapi.io., errorcode: -105
+Fontconfig error: Cannot load default config file: No such file: (null)
+[61358:61416:1024/210155.486322:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[61358:61416:1024/210155.587229:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for sync.adotmob.com failed:
+----- Certificate i=0 (CN=sync.adotmob.com) -----
+ERROR: Time is after notAfter
+
+
+[61459:61466:1024/210155.588026:ERROR:ssl_client_socket_impl.cc(975)] handshake failed; returned -1, SSL error code 1, net_error -201
+Fontconfig error: Cannot load default config file: No such file: (null)
+Warning: disabling flag --expose_wasm due to conflicting flags
+Warning: disabling flag --expose_wasm due to conflicting flags
+[61459:61466:1024/210527.807226:ERROR:ssl_client_socket_impl.cc(975)] handshake failed; returned -1, SSL error code 1, net_error -100
+[61358:61358:1024/211838.242996:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+Warning: disabling flag --expose_wasm due to conflicting flags
+[61358:61421:1024/220400.841553:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Fontconfig error: Cannot load default config file: No such file: (null)
+[61358:61421:1025/202109.327669:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+[61458:61458:1025/202301.322786:ERROR:shared_image_manager.cc(220)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[61458:61458:1025/202301.324071:ERROR:shared_image_manager.cc(220)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[61358:61358:1025/202700.602342:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+[61458:61458:1025/204810.557383:ERROR:shared_image_manager.cc(220)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+Warning: disabling flag --expose_wasm due to conflicting flags
+[61459:61466:1025/213612.106024:ERROR:ssl_client_socket_impl.cc(975)] handshake failed; returned -1, SSL error code 1, net_error -101
+Warning: disabling flag --expose_wasm due to conflicting flags
+[61370:61370:1025/220418.486944:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.colaboraread.com.br/login/auth#titulo-reproduzindo". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+Warning: disabling flag --expose_wasm due to conflicting flags
+Warning: disabling flag --expose_wasm due to conflicting flags
+[61358:61421:1025/221528.620067:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[61358:61421:1025/221528.690953:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[61358:61421:1025/221530.965221:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[61358:61421:1027/210012.656609:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[61458:61458:1027/222718.952306:ERROR:shared_image_manager.cc(220)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[61458:61458:1027/222718.956173:ERROR:shared_image_manager.cc(220)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[61458:61458:1027/222802.125702:ERROR:shared_image_manager.cc(220)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[61458:61458:1027/222802.126257:ERROR:shared_image_manager.cc(220)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[61358:61421:1027/232514.820991:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Warning: disabling flag --expose_wasm due to conflicting flags
+[61358:61421:1028/080440.949652:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[61370:61370:1028/212326.742559:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.youtube.com/". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[61482:61506:1028/212541.001205:ERROR:ssl_client_socket_impl.cc(968)] handshake failed; returned -1, SSL error code 1, net_error -101
+[61482:61506:1028/212559.843192:ERROR:ssl_client_socket_impl.cc(968)] handshake failed; returned -1, SSL error code 1, net_error -101
+[61482:61506:1028/212559.843352:ERROR:ssl_client_socket_impl.cc(968)] handshake failed; returned -1, SSL error code 1, net_error -101
+[61482:61506:1028/212600.867354:ERROR:ssl_client_socket_impl.cc(968)] handshake failed; returned -1, SSL error code 1, net_error -101
+[8129:8129:1028/220321.886781:ERROR:policy_logger.cc(154)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(163) Cloud management controller initialization aborted as CBCM is not enabled.
+[8129:8129:1028/220322.796576:ERROR:service_worker_task_queue.cc(242)] DidStartWorkerFail mpognobbkildjkofajifpdfhcoklimli: 18
+[8129:8129:1028/220326.199305:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://vivaldi.com/new/". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8129:8129:1028/222039.722474:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.youtube.com/". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8198:8203:1028/222242.928836:ERROR:ssl_client_socket_impl.cc(975)] handshake failed; returned -1, SSL error code 1, net_error -101
+[8198:8203:1028/222308.938607:ERROR:ssl_client_socket_impl.cc(975)] handshake failed; returned -1, SSL error code 1, net_error -101
+[8198:8203:1029/203236.585313:ERROR:ssl_client_socket_impl.cc(975)] handshake failed; returned -1, SSL error code 1, net_error -101
+[8198:8203:1029/203256.524415:ERROR:ssl_client_socket_impl.cc(975)] handshake failed; returned -1, SSL error code 1, net_error -101
+[8129:8129:1029/204259.028883:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.youtube.com/shorts/hBv4P6xtyzk". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8198:8203:1029/204259.945207:ERROR:ssl_client_socket_impl.cc(975)] handshake failed; returned -1, SSL error code 1, net_error -101
+[8198:8203:1029/204336.315080:ERROR:ssl_client_socket_impl.cc(975)] handshake failed; returned -1, SSL error code 1, net_error -101
+[8198:8203:1029/204350.146449:ERROR:ssl_client_socket_impl.cc(975)] handshake failed; returned -1, SSL error code 1, net_error -101
+[8129:8129:1029/211632.051508:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.youtube.com/results?search_query=como+configurar+o+google+api+service+para+enviar+arquivos+via+python+no+google+drive%3F". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8198:8203:1029/212107.527338:ERROR:ssl_client_socket_impl.cc(975)] handshake failed; returned -1, SSL error code 1, net_error -331
+[8129:8129:1030/200454.309688:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://music.youtube.com/playlist?list=OLAK5uy_lLLtNoK1WSlipzakvizRLuKeXyRkuYVKg". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8129:8129:1108/213711.966573:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: No window with id: 677206706.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/main.html (0)
+[8129:8129:1108/213711.966793:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: No window with id: 677206706.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/main.html (0)
+[8129:8129:1108/213856.029372:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.youtube.com/watch?v=ihLaqc4ApnA". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8129:8129:1108/224133.328512:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.youtube.com/". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8129:8129:1108/224421.620414:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://shop.ford.ca/showroom/?pos=kba&lang=en&linktype=build#/". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8129:8129:1108/224421.620477:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://shop.ford.ca/showroom/?pos=kba&lang=en&linktype=build#/". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8129:8129:1108/224519.691291:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://shop.ford.ca/configure/edge/chooseyourpath/". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8129:8129:1108/224519.691393:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://shop.ford.ca/configure/edge/chooseyourpath/". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8129:8129:1109/211745.234288:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.youtube.com/watch?v=oKeVqB8Z4pM". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8129:8129:1119/205100.047160:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.xvideos.com/video79101843/ela_se_preparou_com_uma_bela_lingerie_para_o_amigo_do_seu_namorado_izadora_lina_engoliu_gostoso_a_piroca_empinou_a_bundinha_pra_levar_piroca_no_cuzinho_goza_na_minha_bucetinha_vai_completo_no_sheer". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8129:8129:1119/205117.684394:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.xvideos.com/video57460959/pepe_s_cock_is_thicker_than_ashley_s_arm_but_she_has_no_issues_with_it". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8129:8129:1119/205135.767477:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.xvideos.com/video79097145/classic_tender_and_passionate_sex". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8129:8129:1119/205215.236892:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.xvideos.com/video79096577/fucking_my_latina_big_ass_stepsister". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8129:8129:1119/205224.447228:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.xvideos.com/video79108841/getting_hot_with_diamond_black". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8129:8129:1119/205315.504444:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.xvideos.com/video75225323/coco_da_goddess_takes_a_pussy_pounding_from_lt". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8129:8129:1119/210852.064281:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: No window with id: 677206720.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/main.html (0)
+[8129:8129:1119/212653.637658:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.xvideos.com/video79097145/classic_tender_and_passionate_sex". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8129:8129:1119/212712.311651:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.xvideos.com/video55632155/two_mature_and_two_y._fucked_by_their_boyfriends_like_sows". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8129:8129:1119/213248.933607:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: No window with id: 677206730.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/main.html (0)
+[8129:8129:1119/223950.393078:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.xvideos.com/video79097145/classic_tender_and_passionate_sex". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8129:8129:1119/224002.950618:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.xvideos.com/video74342459/my_beautiful_stepmother_is_my_birthday_gift_sub_english". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8129:8129:1119/224025.382646:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.xvideos.com/video55632155/two_mature_and_two_y._fucked_by_their_boyfriends_like_sows". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[8129:8129:1119/224456.831181:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: No window with id: 677206734.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/main.html (0)
+[8195:8195:1119/224819.791301:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+X connection to :1 broken (explicit kill or server shutdown).
