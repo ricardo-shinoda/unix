@@ -8847,3 +8847,14 @@ Warning: disabling flag --expose_wasm due to conflicting flags
 [8129:8129:1119/224456.831181:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: No window with id: 677206734.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/main.html (0)
 [8195:8195:1119/224819.791301:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
 X connection to :1 broken (explicit kill or server shutdown).
+[4974:4974:1129/190959.005750:ERROR:zygote_host_impl_linux.cc(100)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+[4983:4983:1129/190959.017427:ERROR:zygote_host_impl_linux.cc(100)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+[5035:5035:1129/191008.918341:ERROR:policy_logger.cc(154)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(163) Cloud management controller initialization aborted as CBCM is not enabled.
+[5035:5035:1129/191010.232084:ERROR:service_worker_task_queue.cc(242)] DidStartWorkerFail mpognobbkildjkofajifpdfhcoklimli: 18
+[5027:5027:1129/191012.203991:ERROR:object_proxy.cc(577)] Failed to call method: org.freedesktop.ScreenSaver.GetActive: object_path= /org/freedesktop/ScreenSaver: org.freedesktop.DBus.Error.NotSupported: This method is not implemented
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Warning: terminator_CreateInstance: Failed to CreateInstance in ICD 1.  Skipping ICD.
+[5035:5035:1129/191729.256815:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://music.youtube.com/playlist?list=OLAK5uy_lLLtNoK1WSlipzakvizRLuKeXyRkuYVKg". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[5035:5035:1129/191813.599597:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.youtube.com/". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+[5035:5035:1129/192841.451778:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "https://www.youtube.com/watch?v=xQhUMVPhJsc". Extension manifest must request permission to access this host.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/window.html (0)
+Warning: disabling flag --expose_wasm due to conflicting flags
