@@ -30,3 +30,14 @@ if [ -x "$(command -v vivaldi)" ]; then
 else
 	echo "Vivaldi is not installed on this system"
 fi
+
+#Check Mozila firefox
+if [ -x "$(command -v firefox)" ]; then
+	if pgrep -x "firefox" > /dev/null; then
+		echo "Mozila Firefox is already running"
+	else
+	nohup firefox &
+	fi
+else
+	echo "Mozila Firefox is not installed on this system"
+fi
